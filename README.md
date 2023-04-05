@@ -4,6 +4,6 @@
 
 use 
 ``` r,
-Rscript kreher-maniulation.R
+Rscript kreher-manipulation.R
 ```
 to generate a CSV file summarized count for each field trip in the past two  years to Kreher
