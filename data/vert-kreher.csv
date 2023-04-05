@@ -1,420 +1,482 @@
 EntryOrder,Date,Julian day,Day,Month,Year,Season,Time,AM or PM,Genus,Species,Class,Order,Group,Drift fence,PitTrap #,Board #,Habitat type,Location/habitat description,Sex,Body Length (mm),Tail Length (mm),Mass (g),Age,Air temp,Humidity,Clouds,Comments,Participants,Class
-384,9/29/2022,22272,29,September,2022,Autumn,9:25,AM,Acris,gryllus,Amphibian,Anura,Frog,2,1,,Open,,,,,,,13.3,62.1,,"Two dessicated corpses in bucket, MRM put under microscope later and snout and toe morphology suggest Acris or Pseudacris, likely Acris","Katie Eaton, Caroline Burbank, Tori McLaughlin, Branyon Clarke, Alexis Lindsey, Kim Glenn",Vert bio
-302,5/24/2022,22144,24,May,2022,Spring,9:00,AM,Acris,sp,Amphibian,Anura,Frog,4,3,,Forest,,,,,,,22.8,99,,"Only traps 2, 4, 5, 6, 4, 9 were checked",Ecology students,Ecology
-134,10/4/21,21277,4,October,2021,Autumn,10:15,AM,Acris,sp,Amphibian,Anura,Frog,,,,Stream,next to water,,,,,,,,,,,Vert Bio
-90,9/20/21,21263,20,September,2021,Autumn,10:05,AM,Acris,sp,Amphibian,Anura,Frog,,,,Stream,Hopping along creek near waterfall,,,,,,,,,Observed,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
-104,9/20/21,21263,20,September,2021,Autumn,10:55,AM,Acris,sp,Amphibian,Anura,Frog,,,,Forest,on forest path by fence #6,,,,,,,,,Observed,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
-260,04/27/22,22117,27,April,2022,Spring,1631,PM,Anaxyrus,sp,Amphibian,Anura,Toad,,,,Edge,"Pond Adjacent, disturbed",,40,,7.03,,19.4,58.6,,,,Herpetology
-217,03/29/22,22088,29,March,2022,Spring,1200,PM,Anaxyrus,americanus,Amphibian,Anura,Toad,,,,Edge,hillside by pond,Male,,,,,21,56,,,,Herpetology
-218,03/29/22,22088,29,March,2022,Spring,1200,PM,Anaxyrus,americanus,Amphibian,Anura,Toad,,,,Edge,hillside by pond,,,,,Juvenile,21,56,,,,Herpetology
-366,9/9/2022,22252,9,September,2022,Autumn,14:30,PM,Anaxyrus,fowleri,Amphibian,Anura,Toad,8,2,,Stream,,,28,,1.92,,,,,,"Dan Warner, Morgan Muell, Ella Brasher, Alex Awtrey, John Rodgers",Vert bio
-340,9-2-2022,22245,2,September,2022,Autumn,,,Anaxyrus,fowleri,Amphibian,Anura,Toad,8,,,Stream,,,,,,,,,,under log,,Ecology
-357,9/8/2022,22251,8,September,2022,Autumn,9:00,AM,Anaxyrus,fowleri,Amphibian,Anura,Toad,4,1,,Forest,,,35,,3.62,,22.6,78.3,,,"Dan Warner, Kendall Jackson",Vert bio
-60,08/05/21,21217,5,August,2021,Summer,1046,AM,Anaxyrus,fowleri,Amphibian,Anura,Toad,,,,Edge,by pond,,21,,0.6,,27.9,65,,juv,,
-27,3/26/21,21085,26,March,2021,Spring,1434,PM,Anaxyrus,fowleri,Amphibian,Anura,Toad,,,,Edge,under rock next to pond,,38,,8,Juvenile,,,,Juvenile,,Herpetology
-28,3/26/21,21085,26,March,2021,Spring,1434,PM,Anaxyrus,fowleri,Amphibian,Anura,Toad,,,,Edge,under rock next to pond,Male,55,,30,,,,,,,Herpetology
-30,3/26/21,21085,26,March,2021,Spring,1457,PM,Anaxyrus,fowleri,Amphibian,Anura,Toad,,,,Edge,under rock next to pond,Male,50,,14.5,,,,,,,Herpetology
-233,03/30/22,22089,30,March,2022,Spring,1500,PM,Anaxyrus,fowleri,Amphibian,Anura,Toad,,,,Edge,Under rock by pond,,46,,8.42,,27.8,35,,,,Herpetology
-93,9/20/21,21263,20,September,2021,Autumn,10:18,AM,Anaxyrus,fowleri,Amphibian,Anura,Toad,,,,Edge,under rock on trail between pond and ampitheatre,,48,,6.75,,,,,,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
-109,9/27/21,21270,27,September,2021,Autumn,9:36,AM,Anaxyrus,fowleri,Amphibian,Anura,Toad,,,,Edge,path to ampitheater,,27,,1.02,,,,,,,Vert Bio
-333,09/02/2022,22245,2,September,2022,Autumn,,,Anaxyrus,fowleri,Amphibian,Anura,Toad,,,,Edge,Log,Male,,,,,,,,,Group 5,Ecology
-379,9/17/2022,22260,17,September,2022,Autumn,8:55,AM,Anaxyrus,fowleri,Amphibian,Anura,Toad,,,,Open,Along path between fences 9 and 1,,39,,5.97,,20.8,85.1,,,"Nicholas Kimbral, Laura Holt, Amber Gay, Riley Conolley, David Wilczynski, Dan Warner, Katie Eaton",vert bio
-268,1/25/2022,22025,25,January,2022,Winter,13:00,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,,,,,,5.3,,17.2,59,,,Ecology students,Ecology
-222,03/29/22,22088,29,March,2022,Spring,1200,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,16,,,,,,,Juvenile,21,56,,,,Herpetology
-199,03/02/22,22061,2,March,2022,Spring,1614,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,7,2,,,,Male,34,80,2.24,,,,,"Tail broke when captured, tail length = 36+44",,Herpetology
-197,03/02/22,22061,2,March,2022,Spring,1535,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,6,1,,,,Male,38,75,1.53,,,,,,,Herpetology
-289,2/25/2022,22056,25,February,2022,Winter,13:00,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,6,2,,Forest,,,6,5.5,1.9,,15.0,96,,,Ecology students,Ecology
-238,4/11/2022,22101,11,April,2022,Spring,900,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,6,4,,,,Female,33,65,1.52,,19.4,58.6,,no wind,Morgan,Herpetology
-278,2/14/2022,22045,14,February,2022,Winter,13:00,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,3,,19,Stream,,,,,,,15.0,34,,,Ecology students,Ecology
-270,1/25/2022,22025,25,January,2022,Winter,13:00,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,3,,19,Stream,,,,,,,17.2,59,,,Ecology students,Ecology
-254,04/27/22,22117,27,April,2022,Spring,1540,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Stream,Stream adjacent,,38,67,0.91,Juvenile,19.4,58.6,,,,Herpetology
-255,04/27/22,22117,27,April,2022,Spring,1540,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Stream,Stream adjacent,Female,52,100,4.32,,19.4,58.6,,,,Herpetology
-259,04/27/22,22117,27,April,2022,Spring,1631,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,"Pond Adjacent, disturbed",Female,54,74,5.15,,19.4,58.6,,,,Herpetology
-64,8/12/21,21224,12,August,2021,Summer,1134,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,barn,Male,27,43,0.52,,30.7,79.5,,juv,"Chris Norris, Dan Warner",
+1,1/25/21,21025,25,January,2021,Winter,915,AM,,,,,,,,,,,,,,,,19.8,88.3,,nothing found on this day,,Herpetology
+2,1/28/21,21028,28,January,2021,Winter,1115,AM,,,,,,,,,,,,,,,,7.5,56.6,,nothing found on this day,,Herpetology
+3,2/1/21,21032,1,February,2021,Winter,900,AM,,,,,,,,,,,,,,,,4.1,99,,nothing found on this day,,Herpetology
+4,2/4/21,21035,4,February,2021,Winter,1115,AM,,,,,,,,,,,,,,,,10.2,44.6,,nothing found on this day,,Herpetology
+5,2/11/21,21042,11,February,2021,Winter,1110,AM,,,,,,,,,,,,,,,,18.2,85,,nothing found on this day,,Herpetology
+6,2/15/21,21046,15,February,2021,Winter,905,AM,,,,,,,,,,,,,,,,12.7,64.6,,,,Herpetology
+8,2/20/21,21051,20,February,2021,Winter,910,AM,Scincella,lateralis,Reptile,Squamate,Lizard,,,49,Edge,board,,45,35,1.3,,12.8,84.8,,,,Herpetology
+9,2/25/21,21056,25,February,2021,Winter,1121,AM,,,,,,,,,,,,,,,,21.7,50.8,,nothing found on this day,,Herpetology
 10,2/26/21,21057,26,February,2021,Winter,1400,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Under construction board by the pond,Male,50,95,3,,23.1,74,,,,Herpetology
-18,3/12/21,21071,12,March,2021,Spring,,,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Rock (fire pit by pond),,45,80,,,,,,,,Herpetology
-22,3/15/21,21074,15,March,2021,Spring,,,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,log next to pond,Male,52,92,4.1,,,,,,,Herpetology
-196,03/03/22,22062,3,March,2022,Spring,,,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Stream,near fence 8 on boardwalk,,,,,,,,,not captured,,Herpetology
-226,03/30/22,22089,30,March,2022,Spring,1500,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,On fence post by butterfly garden,Male,54,100,5.8,,27.8,35,,,,Herpetology
-230,03/30/22,22089,30,March,2022,Spring,1500,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,,on tree,Male,52,95,4.88,,27.8,35,,,,Herpetology
-232,03/30/22,22089,30,March,2022,Spring,1500,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Under rock by pond,,60,95,3.8,,27.8,35,,,,Herpetology
-187,11/11/21,21315,11,November,2021,Autumn,11:07,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Forest,"on log near trees in center of north lot, basking",Female,37,67,1.27,,26.3,64.6,,,"Morgan, Phelps, Matt, Andrew",Vert Bio
-188,11/11/21,21315,11,November,2021,Autumn,11:15,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,"on tree near road on other side of barbed wire fence, path leading to homestead from north lot",Male,60,112,5.14,,,,,,,Vert Bio
-194,11/18/21,21322,18,November,2021,Autumn,11:45,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Forest,on pond way trail between hi-lo vista and pond,Male,40,80,1.9,,,,,,,Vert Bio
-127,10/2/21,21275,2,October,2021,Autumn,8:36,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Cinder block pile near new shelter by amphitheatre,Female,50,92,2.65,,,,,,,Vert Bio
-147,10/14/21,21287,14,October,2021,Autumn,11:50,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Forest,Fence next to waterfall,,42,76,3,,,,,,,Vert Bio
-156,10/16/21,21289,16,October,2021,Autumn,1:55,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Barn at homestead,Male,51,90,1.82,,,,,,,Vert Bio
-391,10/1/2022,22274,1,October,2022,Autumn,8:40,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Open,"On bush on side of trail in open powerline area, near the trail head to the hidden falls trail",Female,24,44,0.27,,19.1,58.1,,,"Nicholas Kimbrell, Maddie Edwards, David Wilezynski, Riley Conolly, Ben Mitchell, Dan Warner",Vert bio
-403,10/14/22,22287,14,October,2022,Autumn,14:10,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,On bee hive at the homestead,,,,,,7,48.5,,,"Morgan Muell, Gracie Smith, Sharidan Spivey, Sydney Spurlock",Vert bio
-404,10/14/22,22287,14,October,2022,Autumn,14:10,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,On bee hive at the homestead,,,,,,,,,,"Morgan Muell, Gracie Smith, Sharidan Spivey, Sydney Spurlock",Vert bio
-409,10/21/22,22294,21,October,2022,Autumn,15:04,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,"Path to firepit, skinny tree",,,,,,,,,,"Morgan Muell, Nicholas Young, Emma Roark, Abigayle Crochet",Vert bio
-411,10/28/2022,22301,28,October,2022,Autumn,14:20,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Forest,Homestead forest,Male,50,94,3.15,,,,,,"Morgan Muell, Kendall Jackson, Tori McLaughlin Mark Estrada",Vert bio
-412,10/28/2022,22301,28,October,2022,Autumn,15:15,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Turtle pond reeds,Male,44,75,2.12,,,,,Injury on neck,"Morgan Muell, Kendall Jackson, Tori McLaughlin Mark Estrada",Vert bio
-413,10/28/2022,22301,28,October,2022,Autumn,15:20,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Turtle pond path,,,,,Juvenile,,,,,"Morgan Muell, Kendall Jackson, Tori McLaughlin Mark Estrada",Vert bio
-72,9/13/21,21256,13,September,2021,Autumn,10:19,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,"Open ground leaves, by north parking lot",Female,37,74,1.2,,,,,,"Dan Warner, Chris Norris, Kerry Cobb, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
-74,9/13/21,21256,13,September,2021,Autumn,10:30,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Open on trail near homestead,Female,25,48,0.4,,,,,,"Dan Warner, Chris Norris, Kerry Cobb, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
-76,9/13/21,21256,13,September,2021,Autumn,10:56,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Tree in main parking lot,Female,,,,,,,,"captured, not measured","Dan Warner, Chris Norris, Kerry Cobb, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
-77,9/13/21,21256,13,September,2021,Autumn,10:56,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Tree in main parking lot,,,,,,,,,Not captured,"Dan Warner, Chris Norris, Kerry Cobb, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
-100,9/20/21,21263,20,September,2021,Autumn,10:35,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,In open short grass on ground by homestead,,33,55,0.58,,,,,,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
-101,9/20/21,21263,20,September,2021,Autumn,10:40,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Compost pile by homestead,,32,57,0.6,,,,,,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
-102,9/20/21,21263,20,September,2021,Autumn,10:40,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Compost pile by homestead,,,,,,,,,Observed,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
-341,9-1-2022,22244,1,September,2022,Autumn,,,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,,,,,,,,,,,"""next to hap 4/ban""",,Ecology
-338,9-2-2022,22245,2,September,2022,Autumn,,,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,,,,,,,,,,,near 4/barn,,Ecology
-363,9/9/2022,22252,9,September,2022,Autumn,14:05,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,55,Forest,,Female,30,51,0.52,,,,,,"Dan Warner, Morgan Muell, Ella Brasher, Alex Awtrey, John Rodgers",Vert bio
-365,9/9/2022,22252,9,September,2022,Autumn,14:15,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,"Homestead, on compost bin near path entrance to drift fence",Female,38,68,1.28,,,,,,"Dan Warner, Morgan Muell, Ella Brasher, Alex Awtrey, John Rodgers",Vert bio
-371,9/9/2022,22252,9,September,2022,Autumn,15:20,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Open,On leaf along path near drift fence #1,Male,37,63,0.96,,,,,,"Dan Warner, Morgan Muell, Ella Brasher, Alex Awtrey, John Rodgers",Vert bio
-373,9/16/2022,22259,16,September,2022,Autumn,14:17,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Trail by Homestead,Female,57,103,4,,28.3,60,,,"Morgan Muell, Sydney Spurlock, Kathryn Edmondson, Abigayle Crochet, John Rodgers",Vert bio
-374,9/16/2022,22259,16,September,2022,Autumn,14:36,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Forest,Near bridge over stream by fence #8,Female,41,72,1.48,,28.3,60,,,"Morgan Muell, Sydney Spurlock, Kathryn Edmondson, Abigayle Crochet, John Rodgers",Vert bio
-377,9/16/2022,22259,16,September,2022,Autumn,15:35,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Near campfire,,,,,,28.3,60,,Was not captured,"Morgan Muell, Sydney Spurlock, Kathryn Edmondson, Abigayle Crochet, John Rodgers",Vert bio
-381,9/17/2022,22260,17,September,2022,Autumn,9:37,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Forest,Near fence #7,Female,56,105,3.6,,20.8,85.1,,,"Nicholas Kimbral, Laura Holt, Amber Gay, Riley Conolley, David Wilczynski, Dan Warner, Katie Eaton",vert bio
-159,10/18/21,21291,18,October,2021,Autumn,10:36,AM,Ardeas,herodias,Aves,,Bird,,,,Stream,Near board 44,,,,,,,,,,,Vert Bio
-35,4/12/21,21102,12,April,2021,Spring,937,AM,Aspidoscelis,sexlineata,Reptile,Squamate,Lizard,,,6,Edge,board,,42,70,2.21,,21.8,53.9,,,,Herpetology
-248,04/25/22,22115,25,April,2022,Spring,900,AM,Aspidoscelis,sexlineata,Reptile,Squamate,Lizard,,,,Open,,,,,,,19.4,58.6,,,,Herpetology
-400,10/13/22,22286,13,October,2022,Autumn,9:35,AM,Blarina,sp,Mammal,Insectivora,Shrew,9,1,,Open,,,,,,,19.0,89.9,,Live in pitfall trap,"Katie Eaton, Kat Messinger, Josie Wolan, Caroline Burbank",Vert bio
-349,8-30-2022,22242,30,August,2022,Summer,,,Blarina,sp,Mammal,Insectivora,Shrew,7,1,,Forest,,,,,,,,,,,,Ecology
-167,10/26/21,21299,26,October,2021,Autumn,5:17,PM,Blarina,sp,Mammal,Insectivora,Shrew,5,4,,Stream,,,73,,13.72,,21.5,58.6,,"Wind = 0 mph, Shrew was dead","Warner, Alyson Mann, Kaitlyn Watson, Lindsay Goodwin, Hannah Eubanks",Vert Bio
-135,10/4/21,21277,4,October,2021,Autumn,10:39,AM,Blarina,sp,Mammal,Insectivora,Shrew,4,2,,Forest,,,,,,,,,,"dead in water-filled bucket, adult",,Vert Bio
-81,9/16/21,21259,16,September,2021,Autumn,11:45,AM,Blarina,sp,Mammal,Insectivora,Shrew,4,2,,Forest,,,82,,,,,,,,"Dan Warner, Angela Jaimes",Vert Bio
-82,9/16/21,21259,16,September,2021,Autumn,11:45,AM,Blarina,sp,Mammal,Insectivora,Shrew,4,3,,Forest,,,74,,,,,,,,"Dan Warner, Angela Jaimes",Vert Bio
-172,10/28/21,21301,28,October,2021,Autumn,11:37,AM,Blarina,sp,Mammal,Insectivora,Shrew,4,4,,,,,,,,,,,,Dead in trap,,Vert Bio
-91,9/20/21,21263,20,September,2021,Autumn,10:09,AM,Blarina,sp,Mammal,Insectivora,Shrew,3,2,,Stream,,,,,,,,,,,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
-174,10/30/21,21303,30,October,2021,Autumn,8:30,AM,Blarina,sp,Mammal,Insectivora,Shrew,2,2,,Open,,,49,18,2.49,,18.1,74.2,,"no wind, shrew was dead","Dan, Olivia Kramer, Cameryn Christopher",Vert Bio
-78,9/16/21,21259,16,September,2021,Autumn,11:25,AM,Blarina,sp,Mammal,Insectivora,Shrew,2,2,,Open,grassland/powerline,,51,,,,24.8,92,,windspeed = 0,"Dan Warner, Angela Jaimes",Vert Bio
-125,9/30/21,21273,30,September,2021,Autumn,11:10,AM,Blarina,sp,Mammal,Insectivora,Shrew,2,2,,Open,,,,,,,,,,,,Vert Bio
-355,,,,September,2022,Autumn,,,Blarina,sp,Mammal,Insectivora,Shrew,2,2,,Open,,,,,,,,46,,date illegible. Prob Sept-2022,group 2,Ecology
-89,9/20/21,21263,20,September,2021,Autumn,10:00,AM,Blarina,sp,Mammal,Insectivora,Shrew,2,4,,Open,,,,,,,,,,,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
-359,9/8/2022,22251,8,September,2022,Autumn,10:00,AM,Blarina,sp,Mammal,Insectivora,Shrew,2,4,,Open,,,,,3.23,,22.6,78.3,,Live and well,"Dan Warner, Kendall Jackson",Vert bio
-283,2-18-22,22049,18,February,2022,Winter,13:00,PM,Blarina,sp,Mammal,Insectivora,Shrew,1,1,,Open,,,,,,,12.8,64,,,Ecology students,Ecology
-401,10/13/22,22286,13,October,2022,Autumn,9:45,AM,Blarina,sp,Mammal,Insectivora,Shrew,1,2,,Open,,,,,,,19.0,89.9,,"Dead in pitfall trap, eaten by ants","Katie Eaton, Kat Messinger, Josie Wolan, Caroline Burbank",Vert bio
-326,8-31-2022,22243,31,August,2022,Summer,,,Blarina,sp,Mammal,Insectivora,Shrew,,,39,,,,,,,,,,,,,Ecology
-181,11/8/21,21312,8,November,2021,Autumn,10:09,AM,Blarina,sp,Mammal,Insectivora,Shrew,,,28,Open,,,,,,,,,,not captured,,Vert Bio
-182,11/8/21,21312,8,November,2021,Autumn,10:10,AM,Blarina,sp,Mammal,Insectivora,Shrew,,,25,Open,,,,,,,,,,,,Vert Bio
-402,10/13/22,22286,13,October,2022,Autumn,9:50,AM,Blarina,sp,Mammal,Insectivora,Shrew,,,39,Open,,,,,,,19.0,89.9,,Live under coverboard,"Katie Eaton, Kat Messinger, Josie Wolan, Caroline Burbank",Vert bio
-406,10/14/22,22287,14,October,2022,Autumn,15:21,PM,Blarina,sp,Mammal,Insectivora,Shrew,,,37,Open,,,,,,,,,,,"Morgan Muell, Gracie Smith, Sharidan Spivey, Sydney Spurlock",Vert bio
-87,9/20/21,21263,20,September,2021,Autumn,9:45,AM,Blarina,sp,Mammal,Insectivora,Shrew,,,29,Open,Under cover board in powerline area,,,,,,,,,Did not positively identify before it escaped,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
-184,11/8/21,21312,8,November,2021,Autumn,10:15,AM,Cardinalis,cardinalis,Aves,,Bird,,,,Open,flying over open grass into trees on forest edge,,,,,,,,,,,Vert Bio
-132,10/4/21,21277,4,October,2021,Autumn,10:08,AM,Cardinalis,cardinalis,Aves,,Bird,,,,Open,on edge of woods,,,,,,,,,,,Vert Bio
-54,07/01/21,21182,1,July,2021,Summer,1148,AM,Carphophis,amoenus,Reptile,Squamate,Snake,,,1,Edge,board,,270,40,13.41,,28.3,90,,,,
-56,07/08/21,21189,8,July,2021,Summer,1140,AM,Carphophis,amoenus,Reptile,Squamate,Snake,,,1,Edge,board,,280,52,14,,30.6,64,,,,
-292,2-18-2022,22049,18,February,2022,Winter,,,Coluber,constrictor,Reptile,Squamate,Snake,4,,6,Forest,,,,,,,12.8,86,,,Ecology students,Ecology
-245,04/13/22,22103,13,April,2022,Spring,,,Coluber,constrictor,Reptile,Squamate,Snake,,,39,,,,499,106,50,,19.4,58.6,,,,Herpetology
-183,11/8/21,21312,8,November,2021,Autumn,10:14,AM,Coluber,constrictor,Reptile,Squamate,Snake,,,,Open,path up from fence 1 headed to hidden falls trail head,,,,,,,,,whipped away quickly into the tall grass,,Vert Bio
-343,9-1-2022,22244,1,September,2022,Autumn,,,Coluber,constrictor,Reptile,Squamate,Snake,,,,,,,,,,,,,,near trap 1,,Ecology
-380,9/17/2022,22260,17,September,2022,Autumn,9:05,AM,Coluber,constrictor,Reptile,Squamate,Snake,,,28,Open,,Male,322,114,12.25,,20.8,85.1,,,"Nicholas Kimbral, Laura Holt, Amber Gay, Riley Conolley, David Wilczynski, Dan Warner, Katie Eaton",vert bio
-383,9/29/2022,22272,29,September,2022,Autumn,9:20,AM,Coluber,constrictor,Reptile,Squamate,Snake,,,28,Open,,,332,130,12.55,,13.3,62.1,,Probably the same male as captured on 9/17 but could not tell sex,"Katie Eaton, Caroline Burbank, Tori McLaughlin, Branyon Clarke, Alexis Lindsey, Kim Glenn",Vert bio
-419,2/10/2023,,10,February,2023,Winter,14:43,PM,Desmognathus,conanti,Amphibian,Caudata,Salamander,,,,Stream,Under rock next to stream at drift fence #5,,44,46,1.98,,16.9,57.7,,,"Dan Warner, Sydney Wayne, Sarah Middleton, Anabel Dawson, Drake Mitchell",Herpetology
-284,2/21/2022,22052,21,February,2022,Winter,13:00,PM,Diadophis,punctatus,Reptile,Squamate,Snake,1,,25,Open,,,13,,,,12.8,99.9,,,Ecology students,Ecology
-29,3/26/21,21085,26,March,2021,Spring,1443,PM,Diadophis,punctatus,Reptile,Squamate,Snake,,,,Edge,under rock next to pond,,140,3,1,,,,,,,Herpetology
-224,03/29/22,22088,29,March,2022,Spring,1200,PM,Diadophis,punctatus,Reptile,Squamate,Snake,,,,Edge,hillside by pond,,,,,,21,56,,,,Herpetology
-225,03/30/22,22089,30,March,2022,Spring,1500,PM,Diadophis,punctatus,Reptile,Squamate,Snake,,,,Edge,Under Rock by butterfly garden,,194,48,5.35,,27.8,35,,,"Allison, Luke, Dalton, Alexis, Hannah Eubanks, Carter, Peyton, Matth",Herpetology
-236,03/30/22,22089,30,March,2022,Spring,1500,PM,Diadophis,punctatus,Reptile,Squamate,Snake,,,,Edge,Under rock by pond,,137,24,1.62,,27.8,35,,,,Herpetology
-141,10/11/21,21284,11,October,2021,Autumn,9:45,AM,Diadophis,punctatus,Reptile,Squamate,Snake,,,28,Open,,,,,,,,,,,"Morgan Muell, Sullivan Smith, Camille Perry",Vert Bio
-86,9/20/21,21263,20,September,2021,Autumn,9:45,AM,Diadophis,punctatus,Reptile,Squamate,Snake,,,,Open,"Under log by fence #1, trap #1",Female,247,45,6.93,,25.2,88.4,,Windspeed = 0,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
-95,9/20/21,21263,20,September,2021,Autumn,10:23,AM,Diadophis,punctatus,Reptile,Squamate,Snake,,,,Edge,under rock on trail between pond and ampitheatre,,196,55,3.87,,,,,,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
-211,03/28/22,22087,28,March,2022,Spring,915,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,,,43,,,,38,,1.41,,21.7,36,,,,Herpetology
-206,03/16/22,22075,16,March,2022,Spring,1608,PM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,,,18,Forest,,,40,60,1.78,,18.2,74.8,,Tail length = 26+44,,Herpetology
-390,10/1/2022,22274,1,October,2022,Autumn,8:28,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,6,3,,Forest,,,35,43,0.55,,19.1,58.1,,"Was dead and next to trap, not in trap. No obvious signs of how it died, but maybe desiccation","Nicholas Kimbrell, Maddie Edwards, David Wilezynski, Riley Conolly, Ben Mitchell, Dan Warner",Vert bio
-288,2/24/2022,22055,24,February,2022,Winter,13:00,PM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,5,1,,Stream,,,,,,,26.1,58.8,,,Ecology students,Ecology
-417,2/9/2023,,9,February,2023,Winter,13:25,PM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,5,1,,Stream,Stream pittrap,,37,52,1.1,,21.2,74.7,,,"Ian Hall, Brady Tuton, Nick Kimbrall, Dan Warner, Matt Beuhler",Herpetology
-375,9/16/2022,22259,16,September,2022,Autumn,14:48,PM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,5,1,,Stream,,,30,39,0.45,,28.3,60,,,"Morgan Muell, Sydney Spurlock, Kathryn Edmondson, Abigayle Crochet, John Rodgers",Vert bio
-376,9/16/2022,22259,16,September,2022,Autumn,14:48,PM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,5,1,,Stream,,,33,48,0.6,,28.3,60,,,"Morgan Muell, Sydney Spurlock, Kathryn Edmondson, Abigayle Crochet, John Rodgers",Vert bio
-178,11/4/21,21308,4,November,2021,Autumn,11:35,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,5,4,,,,Female,45,110,2,,,,,,,Vert Bio
-136,10/4/21,21277,4,October,2021,Autumn,10:47,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,5,4,,Stream,,,40,65,1.22,,,,,,,Vert Bio
-137,10/4/21,21277,4,October,2021,Autumn,10:47,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,5,4,,Stream,,,39,59,1.25,,,,,,,Vert Bio
-138,10/4/21,21277,4,October,2021,Autumn,10:47,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,5,4,,Stream,,,39,62,1.43,,,,,yellow underside at tail,,Vert Bio
-84,9/16/21,21259,16,September,2021,Autumn,11:57,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,5,4,,Stream,,,29,33,0.39,,,,,,"Dan Warner, Angela Jaimes",Vert Bio
-369,9/9/2022,22252,9,September,2022,Autumn,14:40,PM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,5,4,,Stream,,,49,26,0.81,,,,,Tail was broken,"Dan Warner, Morgan Muell, Ella Brasher, Alex Awtrey, John Rodgers",Vert bio
-332,9-14-22,22257,14,September,2022,Autumn,,,Eurycea,cirrigera,Amphibian,Caudata,Salamander,5,4,,Stream,,,,,,,,,,,group 4,Ecology
-133,10/4/21,21277,4,October,2021,Autumn,10:17,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,3,3,,Stream,,,33,39,0.62,,,,,,,Vert Bio
-158,10/18/21,21291,18,October,2021,Autumn,10:24,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,3,4,,Stream,,,33,36,0.65,,,,,,,Vert Bio
-92,9/20/21,21263,20,September,2021,Autumn,10:09,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,3,4,,Stream,,,36,42,0.87,,,,,,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
-244,04/13/22,22103,13,April,2022,Spring,1549,PM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,,,32,Open,,,,,,,19.4,58.6,,,"Morgan, Matt, Terra, Hannah, Kendall",Herpetology
-258,04/27/22,22117,27,April,2022,Spring,1602,PM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,,,43,Stream,Stream adjacent,,41,32,1.68,,19.4,58.6,,,,Herpetology
-229,03/30/22,22089,30,March,2022,Spring,1500,PM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,,,,Stream,under log near stream,,45,65,3.21,,27.8,35,,,,Herpetology
-177,11/4/21,21308,4,November,2021,Autumn,11:30,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,,,42,,,Female,27.5,70,0.77,,,,,,,Vert Bio
-179,11/4/21,21308,4,November,2021,Autumn,11:42,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,,,5,,,,,,,,,,,,,Vert Bio
-144,10/11/21,21284,11,October,2021,Autumn,10:19,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,,,19,Stream,,,39,48,0.86,,,,,,,Vert Bio
-145,10/12/21,21285,12,October,2021,Autumn,8:45,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,,,11,Stream,,,29,39,0.51,,22.9,83.7,,wind=0 mph,"Dan Warner, Hannah Eubanks, Brenyn Kelly, Kaitlyn Watson",Vert Bio
-160,10/18/21,21291,18,October,2021,Autumn,10:38,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,,,13,Stream,,,35,51,0.98,,,,,,,Vert Bio
-394,10/13/22,22286,13,October,2022,Autumn,8:30,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,,,59,Forest,,,40,59,1.2,,19.0,89.9,,,"Katie Eaton, Kat Messinger, Josie Wolan, Caroline Burbank",Vert bio
-316,6/29/2022,22180,29,June,2022,Summer,9:28,AM,Eurycea,guttolineata,Amphibian,Caudata,Salamander,5,4,,Stream,,,53,50,2.56,,,,,,Dan Warner,STEER
-334,09/03/2022,22246,2,September,2022,Autumn,,,Eurycea,guttolineata,Amphibian,Caudata,Salamander,5,4,,Stream,,,,,,,,,,,,Ecology
-128,10/2/21,21275,2,October,2021,Autumn,8:58,AM,Eurycea,guttolineata,Amphibian,Caudata,Salamander,,,,Stream,Under rock by fence #5 near stream,,38,25,0.85,,,,,Broken tail,,Vert Bio
-129,10/2/21,21275,2,October,2021,Autumn,8:58,AM,Eurycea,guttolineata,Amphibian,Caudata,Salamander,,,,Stream,Under rock by fence #5 near stream,,35,54,0.87,,,,,,,Vert Bio
-399,10/13/22,22286,13,October,2022,Autumn,9:15,AM,Eurycea,guttolineata,Amphibian,Caudata,Salamander,,,16,Stream,,,39,66,1.29,,19.0,89.9,,,"Katie Eaton, Kat Messinger, Josie Wolan, Caroline Burbank",Vert bio
-367,9/9/2022,22252,9,September,2022,Autumn,14:30,PM,Eurycea,guttolineata,Amphibian,Caudata,Salamander,,,15,Stream,,,65,105,5.25,,,,,,"Dan Warner, Morgan Muell, Ella Brasher, Alex Awtrey, John Rodgers",Vert bio
-405,10/14/22,22287,14,October,2022,Autumn,14:58,PM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,9,2,,Open,,,21,,,,,,,,"Morgan Muell, Gracie Smith, Sharidan Spivey, Sydney Spurlock",Vert bio
-296,5/23/2022,22143,23,May,2022,Spring,9:00,AM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,9,3,,Open,,,,,,,27.2,86,,,Ecology students,Ecology
-317,6/29/2022,22180,29,June,2022,Summer,9:55,AM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,9,4,,Open,,,24,,1.8,,,,,,Dan Warner,STEER
-395,10/13/22,22286,13,October,2022,Autumn,8:50,AM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,8,2,,Stream,,,20,,1,,19.0,89.9,,,"Katie Eaton, Kat Messinger, Josie Wolan, Caroline Burbank",Vert bio
-314,6/29/2022,22180,29,June,2022,Summer,9:10,AM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,8,3,,Stream,,,29,,1.19,,,,,,Dan Warner,STEER
-308,6/23/22,22174,23,June,2022,Summer,9:04,AM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,7,1,,,,,29,,2.12,,,,,,"Dan Warner, Francis MacVay, Morgan Muell",STEER
-312,6/28/22,22179,28,June,2022,Summer,9:30,AM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,6,1,,Forest,,,27,,0.96,,,,,,"Dan Warner, Francis MacVay",STEER
-323,6/30/2022,22181,30,June,2022,Summer,9:50,AM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,6,2,,Forest,,,25,,1.05,,,,,,"Dan Warner, Francis MacVay",STEER
-124,9/30/21,21273,30,September,2021,Autumn,12:02,PM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,6,2,,Forest,,,19,,0.75,,,,,,,Vert Bio
-85,9/16/21,21259,16,September,2021,Autumn,12:10,PM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,6,4,,Forest,,,29,,1.94,,,,,,"Dan Warner, Angela Jaimes",Vert Bio
-392,10/1/2022,22274,1,October,2022,Autumn,8:54,AM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,2,1,,Open,,,32,,2.7,,19.1,58.1,,,"Nicholas Kimbrell, Maddie Edwards, David Wilezynski, Riley Conolly, Ben Mitchell, Dan Warner",Vert bio
-166,10/25/21,21298,25,October,2021,Autumn,10:05,AM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,2,3,,Open,,,21,,0.78,,,,,,,Vert Bio
-318,6/29/2022,22180,29,June,2022,Summer,10:05,AM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,1,3,,Open,,,27,,1.19,,,,,,Dan Warner,STEER
-310,6/24/2022,22175,24,June,2022,Summer,9:46,AM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,,,,Open,Open trap line (northern end),,24,,0.58,,,,,,"Dan Warner, Francis MacVay, Morgan Muell",STEER
-130,10/2/21,21275,2,October,2021,Autumn,9:07,AM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,,,49,Forest,,,21,,0.79,,,,,,,Vert Bio
-239,4/11/2022,22101,11,April,2022,Spring,900,AM,Lampropeltis,getula,Reptile,Squamate,Snake,,,47,,,,53.5,50,15.13,,19.4,58.6,,no wind,,Herpetology
-243,04/12/22,22102,12,April,2022,Spring,1244,PM,Lampropeltis,getula,Reptile,Squamate,Snake,,,47,Open,,,,,,,19.4,58.6,,,,Herpetology
-231,03/30/22,22089,30,March,2022,Spring,1500,PM,Lampropeltis,getula,Reptile,Squamate,Snake,,,12,Open,Open field,,335,50,14.71,,27.8,35,,,,Herpetology
-311,6/27/2022,22178,27,June,2022,Summer,9:00,AM,Lithobates,clamitans,Amphibian,Anura,Frog,8,2,,Stream,,,27,,1.77,,,,,,Francis MacVay,STEER
-313,6/29/2022,22180,29,June,2022,Summer,9:10,AM,Lithobates,clamitans,Amphibian,Anura,Frog,8,2,,Stream,,,30,,0.7,,,,,,Dan Warner,STEER
-320,6/30/2022,22181,30,June,2022,Summer,9:15,AM,Lithobates,clamitans,Amphibian,Anura,Frog,8,3,,Stream,,,28,,1.38,,,,,,"Dan Warner, Francis MacVay",STEER
-83,9/16/21,21259,16,September,2021,Autumn,11:57,AM,Lithobates,clamitans,Amphibian,Anura,Frog,5,1,,Stream,,,28,,1.05,,,,,,"Dan Warner, Angela Jaimes",Vert Bio
-315,6/29/2022,22180,29,June,2022,Summer,9:28,AM,Lithobates,clamitans,Amphibian,Anura,Frog,5,2,,Stream,,,28,,1.8,,,,,frog was missing right hind foot,Dan Warner,STEER
-321,6/30/2022,22181,30,June,2022,Summer,9:31,AM,Lithobates,clamitans,Amphibian,Anura,Frog,5,3,,Stream,,,23,,0.96,,,,,,"Dan Warner, Francis MacVay",STEER
-322,6/30/2022,22181,30,June,2022,Summer,9:31,AM,Lithobates,clamitans,Amphibian,Anura,Frog,5,3,,Stream,,,23,,0.81,,,,,,"Dan Warner, Francis MacVay",STEER
-324,6/30/2022,22181,30,June,2022,Summer,10:21,AM,Lithobates,clamitans,Amphibian,Anura,Frog,3,1,,Stream,,,22,,0.77,,,,,,"Dan Warner, Francis MacVay",STEER
-319,6/29/2022,22180,29,June,2022,Summer,10:15,AM,Lithobates,clamitans,Amphibian,Anura,Frog,3,2,,Stream,,,22,,0.7,,,,,,Dan Warner,STEER
-31,3/29/21,21088,29,March,2021,Spring,908,AM,Lithobates,clamitans,Amphibian,Anura,Frog,,,,Stream,open area on stream bank,Female,67,,20,,16.8,44,,,,Herpetology
-94,9/20/21,21263,20,September,2021,Autumn,10:18,AM,Lithobates,clamitans,Amphibian,Anura,Frog,,,,Edge,under rock on trail between pond and ampitheatre,,30,,3.32,,,,,,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
-372,9/9/2022,22252,9,September,2022,Autumn,15:40,PM,Lithobates,clamitans,Amphibian,Anura,Frog,,,,Stream,Under rock near coverboard 58,,27,,1.98,,,,,,"Dan Warner, Morgan Muell, Ella Brasher, Alex Awtrey, John Rodgers",Vert bio
-301,5/24/2022,22144,24,May,2022,Spring,9:00,AM,Lithobates,sphenocephalus,Amphibian,Anura,Frog,5,3,,Stream,,,,,,,22.8,91,,"Only traps 2, 4, 5, 6, 4, 9 were checked",Ecology students,Ecology
-50,6/24/21,21175,24,June,2021,Summer,953,AM,Lithobates,sphenocephalus,Amphibian,Anura,Frog,,,,Edge,edge of pond,,24,,1.13,Juvenile,26.9,88,,,,
-228,03/30/22,22089,30,March,2022,Spring,1500,PM,Lithobates,sphenocephalus,Amphibian,Anura,Frog,,,,Edge,near pond,,50,,10.25,,27.8,35,,,,Herpetology
-114,9/28/21,21271,28,September,2021,Autumn,5:29,PM,Lithobates,sphenocephalus,Amphibian,Anura,Frog,,,,Stream,"Near coverboard #19, by waterfall",,,,,,,,,"observed, did not capture",,Vert Bio
-195,03/03/22,22062,3,March,2022,Spring,1510,PM,Nerodia,sp,Reptile,Squamate,Snake,,,,Stream,near fence 8 on boardwalk,,,,,,26.3,25,,not captured,,Herpetology
-111,9/27/21,21270,27,September,2021,Autumn,10:28,AM,Pantherophis,spiloides,Reptile,Squamate,Snake,,,,,In leaves near path,Female,106.5,23.3,,,,,,,,Vert Bio
-358,9/8/2022,22251,8,September,2022,Autumn,9:45,AM,Peromyscus,sp,Mammal,Rodentia,Mouse,9,3,,Open,,,58,41,7.58,,22.6,78.3,,Dead in pit traph,"Dan Warner, Kendall Jackson",Vert bio
-131,10/4/21,21277,4,October,2021,Autumn,9:54,AM,Peromyscus,sp,Mammal,Rodentia,Mouse,2,3,,Open,,,,,7.71,,,,,Was wet in the bucket,"Morgan, Mary Graf Ethridge",Vert Bio
-149,10/16/21,21289,16,October,2021,Autumn,1:19,PM,Peromyscus,sp,Mammal,Rodentia,Mouse,1,2,,Open,,,,,3.75,,22.7,63,,wind = 1.5 mph,"Dan Warner, Alexa Hightower, Hannah Eubanks, Hannah Forget, Angela Jaimes, Victoria Chaves, Anna Darke",Vert Bio
-193,11/18/21,21322,18,November,2021,Autumn,11:20,AM,Peromyscus,sp,Mammal,Rodentia,Mouse,,,,,,,,,,,,,,,,Vert Bio
-339,9-2-2022,22245,2,September,2022,Autumn,,,Plestiodon,fasciatus,Reptile,Squamate,Lizard,8,1,,Stream,,,,,,,,,,ask Jake/Kaitlyn,,Ecology
-336,9-5-2022,22248,2,September,2022,Autumn,,,Plestiodon,fasciatus,Reptile,Squamate,Lizard,8,1,,Stream,,,,,,,28,69,,,,Ecology
-368,9/9/2022,22252,9,September,2022,Autumn,14:40,PM,Plestiodon,fasciatus,Reptile,Squamate,Lizard,5,1,,Stream,,,60,61,4.6,,,,,Tail looked regenerated,"Dan Warner, Morgan Muell, Ella Brasher, Alex Awtrey, John Rodgers",Vert bio
-345,8-31-2022,22243,31,August,2022,Summer,,,Plestiodon,fasciatus,Reptile,Squamate,Lizard,4,4,,Forest,,,,,,,29,,,,,Ecology
-329,09-20-2022,22263,20,September,2022,Autumn,,,Plestiodon,fasciatus,Reptile,Squamate,Lizard,3,4,,Stream,,,,,,,28,68,3,,,Ecology
-63,8/12/21,21224,12,August,2021,Summer,1128,AM,Plestiodon,fasciatus,Reptile,Squamate,Lizard,,,,Edge,barn,,32,12,1.15,,30.7,79.5,,juv,,
-52,07/01/21,21182,1,July,2021,Summer,1100,AM,Plestiodon,fasciatus,Reptile,Squamate,Lizard,,,,Edge,barn,,58,44,5.4,,28.3,92,,,,
-227,03/30/22,22089,30,March,2022,Spring,1500,PM,Plestiodon,fasciatus,Reptile,Squamate,Lizard,,,,Stream,near creek,Female,,,,,27.8,35,,,,Herpetology
-262,04/27/22,22117,27,April,2022,Spring,1638,PM,Plestiodon,laticeps,Reptile,Squamate,Lizard,,,,Forest,,,,,28.5,,19.4,58.6,,,,Herpetology
-354,,,,September,2022,Autumn,,,Plestiodon,sp,Reptile,Squamate,Lizard,9,,46,Open,,,,,,,,,,date illegible. Prob Sept-2022,group 1,Ecology
-327,9-21-2022,22264,21,September,2022,Autumn,,,Plestiodon,sp,Reptile,Squamate,Lizard,5,,16,Stream,,,,,,,28,81,3,,,Ecology
-277,2/14/2022,22045,14,February,2022,Winter,13:00,PM,Plestiodon,sp,Reptile,Squamate,Lizard,1,,27,Open,,,,,,,18.9,30,,,Ecology students,Ecology
-123,9/30/21,21273,30,September,2021,Autumn,11:43,AM,Plestiodon,sp,Reptile,Squamate,Lizard,,,,Edge,on barn by garden,,,,,,,,,,,Vert Bio
-342,9-1-2022,22244,1,September,2022,Autumn,,,Plestiodon,sp,Reptile,Squamate,Lizard,,,,,,,,,,,,,,near trap 5,,Ecology
-205,03/16/22,22075,16,March,2022,Spring,1604,PM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,,,45,Forest,,,35,32,1.16,,18.2,74.8,,,,Herpetology
-396,10/13/22,22286,13,October,2022,Autumn,8:50,AM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,8,4,,Stream,,,80,70,7.74,,19.0,89.9,,,"Katie Eaton, Kat Messinger, Josie Wolan, Caroline Burbank",Vert bio
-297,5/23/2022,22143,23,May,2022,Spring,9:00,AM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,8,,15,Stream,,,,,,,23.9,67,,,Ecology students,Ecology
-264,1/24/2022,22024,24,January,2022,Winter,13:00,PM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,6,,41,Forest,,,30,20,0.5,,16.7,38,,,Ecology students,Ecology
-272,1/27/2022,22027,27,January,2022,Winter,13:00,PM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,6,,41,Forest,,,,,,,17.2,27,,,Ecology students,Ecology
-165,10/25/21,21298,25,October,2021,Autumn,9:48,AM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,5,4,,Stream,,,83,78,8.77,,21.6,95,,,"Morgan, Will, Camille, Andrew",Vert Bio
-267,1/25/2022,22025,25,January,2022,Winter,13:00,PM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,5,,,Stream,under log,,40,22,0.23,,24.4,66,,,Ecology students,Ecology
-203,03/16/22,22075,16,March,2022,Spring,1536,PM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,5,,,Edge,woods/edge,,29,30,0.88,,18.2,74.8,,,,Herpetology
-210,03/28/22,22087,28,March,2022,Spring,915,AM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,5,,,,,,29,30,0.88,,21.7,36,,,,Herpetology
-223,03/29/22,22088,29,March,2022,Spring,1200,PM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,5,,,,,,29,30,0.88,,21,56,,,,Herpetology
-32,4/5/21,21095,5,April,2021,Spring,958,AM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,,,,Edge,under rotton log next to pond,,36,35,0.97,,16.8,44.9,,,,Herpetology
-256,04/27/22,22117,27,April,2022,Spring,1545,PM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,,,,Stream,Stream adjacent,Female,75,128,5.72,,19.4,58.6,,,,Herpetology
-7,,,,February,2021,Winter,,,Plethodon,glutinosus,Amphibian,Caudata,Salamander,,,45,Forest,board,,39,28,0.79,,15.7,64.2,,,,Herpetology
-51,07/01/21,21182,1,July,2021,Summer,1030,AM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,,,13,Stream,board,,57,43,2.95,,27.5,89,,,,
+11,2/26/21,21057,26,February,2021,Winter,,,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,under log by board 7,Female,63,,12.5,,23.1,74,,,,Herpetology
 12,3/1/21,21060,1,March,2021,Spring,926,AM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,,,,Edge,under log by pond,,27,26,0.55,,16.1,,,,,Herpetology
 13,3/1/21,21060,1,March,2021,Spring,931,AM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,,,8,Edge,board,,61,57,5.35,,20.7,83,,,,Herpetology
 14,3/1/21,21060,1,March,2021,Spring,942,AM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,,,20,Stream,board,,61,57,5.35,,20.7,83,,,,Herpetology
+15,3/8/21,21067,8,March,2021,Spring,900,AM,,,,,,,,,,,,,,,,17.4,32.2,,nothing found on this day,,Herpetology
+18,3/12/21,21071,12,March,2021,Spring,,,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Rock (fire pit by pond),,45,80,,,,,,,,Herpetology
 19,3/12/21,21071,12,March,2021,Spring,,,Plethodon,glutinosus,Amphibian,Caudata,Salamander,,,,Forest,log (Hi low vista pond way),,30,28,,,,,,,,Herpetology
-397,10/13/22,22286,13,October,2022,Autumn,8:50,AM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,,,13,Stream,,,40,46,1.57,,19.0,89.9,,,"Katie Eaton, Kat Messinger, Josie Wolan, Caroline Burbank",Vert bio
-398,10/13/22,22286,13,October,2022,Autumn,8:50,AM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,,,15,Stream,,,47,40,2.26,,19.0,89.9,,,"Katie Eaton, Kat Messinger, Josie Wolan, Caroline Burbank",Vert bio
-110,9/27/2021,21270,27,September,2021,Autumn,10:17,AM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,,,13,Stream,,,55,18,2.47,,,,,Regnerating tail,,Vert Bio
-48,6/24/21,21175,24,June,2021,Summer,925,AM,Pseudemys,,Reptile,Chelonia,Turtle,,,,Stream,near creek,,,,10.35,,21.8,80.1,,,,
-139,10/4/21,21277,4,October,2021,Autumn,11:00,AM,Pseudotriton,ruber,Amphibian,Caudata,Salamander,5,4,,Stream,,,75,42,3.81,,,,,laterally compressed tail,,Vert Bio
-242,04/12/22,22102,12,April,2022,Spring,1230,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,1,,Forest,,Male,52,72,5.55,,19.4,58.6,,,"Morgan, Terra",Herpetology
-362,9/8/2022,22251,8,September,2022,Autumn,10:20,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,7,2,,Forest,,Female,28,34,0.61,,22.6,78.3,,,"Dan Warner, Kendall Jackson",Vert bio
-118,9/28/21,21271,28,September,2021,Autumn,6:05,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,6,2,,Forest,,Female,36,47,1.47,,,,,,,Vert Bio
-299,5/23/2022,22143,23,May,2022,Spring,9:00,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,6,4,,Forest,,,,,,,22.8,91,,"Only traps 2, 4, 5, 6, 4, 9 were checked",Ecology students,Ecology
+17,3/12/21,21071,12,March,2021,Spring,,,Scincella,lateralis,Reptile,Squamate,Lizard,,,41,Forest,board,,40,,,,,,,,,Herpetology
+16,3/12/21,21071,12,March,2021,Spring,900,AM,,,,,,,,,,weather,,,,,,11.1,83,,,,Herpetology
+21,3/15/21,21074,15,March,2021,Spring,,,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Edge,lumber by barn,,42,,1,,,,,cut tail,,Herpetology
+22,3/15/21,21074,15,March,2021,Spring,,,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,log next to pond,Male,52,92,4.1,,,,,,,Herpetology
+20,3/15/21,21074,15,March,2021,Spring,900,AM,,,,,,,,,,,,,,,,17.8,100,,,,Herpetology
+23,3/18/21,21077,18,March,2021,Spring,,,,,,,,,,,,,,,,,,20.6,66,,nothing found on this day,,Herpetology
+24,3/22/21,21081,22,March,2021,Spring,900,AM,,,,,,,,,,,,,,,,13.3,59.7,,nothing found on this day,,Herpetology
+25,3/25/21,21084,25,March,2021,Spring,1108,AM,,,,,,,,,,,,,,,,22.1,80.7,,Two snakes sighted next to 17 and 45,,Herpetology
+27,3/26/21,21085,26,March,2021,Spring,1434,PM,Anaxyrus,fowleri,Amphibian,Anura,Toad,,,,Edge,under rock next to pond,,38,,8,Juvenile,,,,Juvenile,,Herpetology
+28,3/26/21,21085,26,March,2021,Spring,1434,PM,Anaxyrus,fowleri,Amphibian,Anura,Toad,,,,Edge,under rock next to pond,Male,55,,30,,,,,,,Herpetology
+30,3/26/21,21085,26,March,2021,Spring,1457,PM,Anaxyrus,fowleri,Amphibian,Anura,Toad,,,,Edge,under rock next to pond,Male,50,,14.5,,,,,,,Herpetology
+29,3/26/21,21085,26,March,2021,Spring,1443,PM,Diadophis,punctatus,Reptile,Squamate,Snake,,,,Edge,under rock next to pond,,140,3,1,,,,,,,Herpetology
+26,3/26/21,21085,26,March,2021,Spring,1400,PM,,,,,,,,,,,,,,,,23.9,74,,,,Herpetology
+31,3/29/21,21088,29,March,2021,Spring,908,AM,Lithobates,clamitans,Amphibian,Anura,Frog,,,,Stream,open area on stream bank,Female,67,,20,,16.8,44,,,,Herpetology
+32,4/5/21,21095,5,April,2021,Spring,958,AM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,,,,Edge,under rotton log next to pond,,36,35,0.97,,16.8,44.9,,,,Herpetology
+33,4/9/21,21099,9,April,2021,Spring,900,AM,,,,,,,,,,,,,,,,23.3,76,,nothing found on this day,,Herpetology
+35,4/12/21,21102,12,April,2021,Spring,937,AM,Aspidoscelis,sexlineata,Reptile,Squamate,Lizard,,,6,Edge,board,,42,70,2.21,,21.8,53.9,,,,Herpetology
+36,4/12/21,21102,12,April,2021,Spring,1001,AM,Scincella,lateralis,Reptile,Squamate,Lizard,,,35,Open,board,,40,40,0.86,,23.8,47.3,,,,Herpetology
+34,4/12/21,21102,12,April,2021,Spring,900,AM,,,,,,,,,,,,,,,,19.8,65.2,,nothing found on this day,,Herpetology
+37,4/15/21,21105,15,April,2021,Spring,1226,PM,Virginia,valeriae,Reptile,Squamate,Snake,,,3,Edge,board,,152,29,,,23.2,36.6,,,,Herpetology
 38,4/23/21,21113,23,April,2021,Spring,2:46,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,homested,Female,,,,,20.4,36.6,,,,Herpetology
 39,4/23/21,21113,23,April,2021,Spring,2:48,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,homested,Male,,,,,20.4,36.6,,,,Herpetology
 40,4/23/21,21113,23,April,2021,Spring,2:52,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,homested,Female,,,,,20.4,36.6,,,,Herpetology
 41,4/23/21,21113,23,April,2021,Spring,2:55,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,garden,Male,,,,,20.4,36.6,,,,Herpetology
-247,04/25/22,22115,25,April,2022,Spring,900,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Forest,,Female,40,23,2.73,,19.4,58.6,,,,Herpetology
-253,04/27/22,22117,27,April,2022,Spring,1532,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,On tree,,,,,,19.4,58.6,,,"Noah, Allison, Peyton, Hannah, Hannah Eubanks, Lyndsay, Matt, Kendall",Herpetology
-257,04/27/22,22117,27,April,2022,Spring,1554,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Forest,,Female,64,85,17.39,,19.4,58.6,,,,Herpetology
-261,04/27/22,22117,27,April,2022,Spring,1630,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Forest,,,,,,,19.4,58.6,,,,Herpetology
+42,5/19/21,21139,19,May,2021,Spring,,,,,,,,,,,,,,,,,,,,,nothing found on this day,,
+43,5/20/21,21140,20,May,2021,Spring,,,,,,,,,,,,spotted broad head skink,,,,,,,,,nothing found on this day,,
+45,5/25/21,21145,25,May,2021,Spring,955,AM,Storeria,occipitomaculata,Reptile,Squamate,Snake,,,3,Edge,board,,18,3.5,4.76,,26.2,79.1,,,,
+44,5/25,21145,25,May,2021,Spring,,,,,,,,,,,,,,,,,,26.2,80.5,,,,
+46,6/3/21,21154,3,June,2021,Summer,1100,AM,,,,,,,,,,,,,,,,29.3,69.4,,nothing found on this day,,
+47,6/11/21,21162,11,June,2021,Summer,,,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,barn,Male,60,90,7.26,,24.9,79.9,,,,
+50,6/24/21,21175,24,June,2021,Summer,953,AM,Lithobates,sphenocephalus,Amphibian,Anura,Frog,,,,Edge,edge of pond,,24,,1.13,Juvenile,26.9,88,,,,
+49,6/24/21,21175,24,June,2021,Summer,,,,,Amphibian,Caudata,Salamander,,,,Stream,"near creek, larvae",,,,,,21.8,80.1,,There were many larvae of an unknown species,,
+48,6/24/21,21175,24,June,2021,Summer,925,AM,Pseudemys,,Reptile,Chelonia,Turtle,,,,Stream,near creek,,,,10.35,,21.8,80.1,,,,
+52,07/01/21,21182,1,July,2021,Summer,1100,AM,Plestiodon,fasciatus,Reptile,Squamate,Lizard,,,,Edge,barn,,58,44,5.4,,28.3,92,,,,
+53,07/01/21,21182,1,July,2021,Summer,1101,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,barn,Male,62,85,9.05,,28.3,92,,,,
+54,07/01/21,21182,1,July,2021,Summer,1148,AM,Carphophis,amoenus,Reptile,Squamate,Snake,,,1,Edge,board,,270,40,13.41,,28.3,90,,,,
+55,07/01/21,21182,1,July,2021,Summer,1225,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,parking lot,Female,62,81,8.23,,27.8,90,,,,
+51,07/01/21,21182,1,July,2021,Summer,1030,AM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,,,13,Stream,board,,57,43,2.95,,27.5,89,,,,
+56,07/08/21,21189,8,July,2021,Summer,1140,AM,Carphophis,amoenus,Reptile,Squamate,Snake,,,1,Edge,board,,280,52,14,,30.6,64,,,,
+57,07/15/21,21196,15,July,2021,Summer,,,,,,,,,,,,,,,,,,,,,nothing found on this day,,
+58,07/22/21,21203,22,July,2021,Summer,,,,,,,,,,,,,,,,,,,,,nothing found on this day,,
+60,08/05/21,21217,5,August,2021,Summer,1046,AM,Anaxyrus,fowleri,Amphibian,Anura,Toad,,,,Edge,by pond,,21,,0.6,,27.9,65,,juv,,
+59,08/05/21,21217,5,August,2021,Summer,1005,AM,Tantilla,coronata,Reptile,Squamate,Snake,,,49,Edge,board,,145,45,1.02,,27.9,67,,,,
 61,08/12/21,21224,12,August,2021,Summer,1054,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,sign in open area,Female,27,27,0.78,Juvenile,28.1,82,,,,
 62,08/12/21,21224,12,August,2021,Summer,1054,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,sign in open area,Male,34,32,1.09,,28.1,82,,juv,,
-11,2/26/21,21057,26,February,2021,Winter,,,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,under log by board 7,Female,63,,12.5,,23.1,74,,,,Herpetology
-55,07/01/21,21182,1,July,2021,Summer,1225,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,parking lot,Female,62,81,8.23,,27.8,90,,,,
-53,07/01/21,21182,1,July,2021,Summer,1101,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,barn,Male,62,85,9.05,,28.3,92,,,,
-47,6/11/21,21162,11,June,2021,Summer,,,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,barn,Male,60,90,7.26,,24.9,79.9,,,,
-204,03/16/22,22075,16,March,2022,Spring,1536,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Forest,,Male,66,86,14.48,,18.2,74.8,,,,Herpetology
-214,03/29/22,22088,29,March,2022,Spring,1200,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,Fire pit,,,,,Juvenile,21,56,,,,Herpetology
-215,03/29/22,22088,29,March,2022,Spring,1200,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,hillside by pond,,,,,Juvenile,21,56,,,,Herpetology
-216,03/29/22,22088,29,March,2022,Spring,1200,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,hillside by pond,Male,,,,,21,56,,,,Herpetology
-235,03/30/22,22089,30,March,2022,Spring,1500,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,Under rock by pond,,40,32,1.67,,27.8,35,,,,Herpetology
-237,03/30/22,22089,30,March,2022,Spring,1500,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,Under rock by pond,Male,69,10,12.06,,27.8,35,,,,Herpetology
-185,11/8/21,21312,8,November,2021,Autumn,10:18,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Forest,on tree at trailhead to hidden falls trail,,,,,Adult,,,,not captured,,Vert Bio
-186,11/8/21,21312,8,November,2021,Autumn,10:21,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Forest,"on tree at trailhead to hidden falls trail, slightly further down from first fence lizard",Female,31,,1.39,,,,,"tail broke, not measured",,Vert Bio
-189,11/11/21,21315,11,November,2021,Autumn,12:00,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Forest,tree right at trailhead of hidden falls trail from open area,,,,,,,,,recap of dropped tail individual from Monday,,Vert Bio
-190,11/11/21,21315,11,November,2021,Autumn,12:09,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Open,rock pile by bleachers,,,,,,,,,,,Vert Bio
-414,11/4/2022,22308,4,November,2022,Autumn,15:03,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,Neat ampitheatre,Female,32,10,1.23,,24.7,56.2,,Broken tail,"Dan Warner, Gracie Smith, Sheridan Spivey, Emma Roark, Alex Awtrey, Branyon Clarke",Vert bio
-415,11/4/2022,22308,4,November,2022,Autumn,15:05,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,firepit,,,,,Juvenile,,,,"Escaped, jvuvenile","Dan Warner, Gracie Smith, Sheridan Spivey, Emma Roark, Alex Awtrey, Branyon Clarke",Vert bio
-126,10/2/21,21275,2,October,2021,Autumn,8:32,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,Cinder block pile near new shelter by amphitheatre,Male,72,105,14.31,,24.1,80.8,,wind = 0mph,"Dan Warner, Alexa Hightower, Olivia Kramer, Cameryn C, Hanna F, Sydney F",Vert Bio
-142,10/11/21,21284,11,October,2021,Autumn,9:47,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,By fire pit,,,,,,,,,,,Vert Bio
-143,10/11/21,21284,11,October,2021,Autumn,9:59,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,By fire pit,,,,,,,,,,,Vert Bio
-146,10/14/21,21287,14,October,2021,Autumn,11:45,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Forest,Trail next to powerline cut,,,,,,26.7,71,,wind=0 mph,Kerry,Vert Bio
-148,10/14/21,21287,14,October,2021,Autumn,11:59,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,Firepit,,27,14,0.8,,,,,cut tail,,Vert Bio
-151,10/16/21,21289,16,October,2021,Autumn,1:34,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,Basking on rock on trail next to pond,Female,27,30,0.68,,,,,,,Vert Bio
-152,10/16/21,21289,16,October,2021,Autumn,1:39,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,Firepit,Female,32,22,0.86,,,,,Broken tail,,Vert Bio
-155,10/16/21,21289,16,October,2021,Autumn,1:46,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,By structure under construction near ampitheater,,,,,,,,,,,Vert Bio
+63,8/12/21,21224,12,August,2021,Summer,1128,AM,Plestiodon,fasciatus,Reptile,Squamate,Lizard,,,,Edge,barn,,32,12,1.15,,30.7,79.5,,juv,,
+64,8/12/21,21224,12,August,2021,Summer,1134,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,barn,Male,27,43,0.52,,30.7,79.5,,juv,"Chris Norris, Dan Warner",
+65,08/18/21,21230,18,August,2021,Summer,,,,,,,,,,,,,,,,,,,,,nothing found on this day,"Chris Norris, Dan Warner",
+66,08/30/2021,21242,30,August,2021,Summer,,,,,,,,,,,,,,,,,,,,,"nothing found on this day, but not all cover boards were checked","Haile Cobb, Dan Warner",Vert Bio
 67,9/13/21,21256,13,September,2021,Autumn,9:30,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,"Ampitheatre, by pond on rock",,,,,Juvenile,27.9,63.2,,"Not captured. No animals under coverboards, but not all coverboards were checked. All pit traps were closed.","Dan Warner, Chris Norris, Kerry Cobb, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
 68,9/13/21,21256,13,September,2021,Autumn,10:04,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,"Ampitheatre, on rock",Female,27,32,0.4,,27.9,63.2,,"windspeed:1.8 mph, Juvenile","Dan Warner, Chris Norris, Kerry Cobb, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
 69,9/13/21,21256,13,September,2021,Autumn,10:10,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,"Open, short grass",Female,24,33,0.5,Juvenile,,,,Juvenile,"Dan Warner, Chris Norris, Kerry Cobb, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
 70,9/13/21,21256,13,September,2021,Autumn,10:10,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,Fire pit by amphitheatre,Male,23,33,0.6,Juvenile,,,,,"Dan Warner, Chris Norris, Kerry Cobb, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
 71,9/13/21,21256,13,September,2021,Autumn,10:13,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,Fire pit by amphitheatre,,,,,Juvenile,,,,Not captured,"Dan Warner, Chris Norris, Kerry Cobb, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
+72,9/13/21,21256,13,September,2021,Autumn,10:19,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,"Open ground leaves, by north parking lot",Female,37,74,1.2,,,,,,"Dan Warner, Chris Norris, Kerry Cobb, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
+73,9/13/21,21256,13,September,2021,Autumn,10:25,AM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Edge,"open ground leaves, by north parking lot",,22,32,0.2,Juvenile,,,,,"Dan Warner, Chris Norris, Kerry Cobb, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
+74,9/13/21,21256,13,September,2021,Autumn,10:30,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Open on trail near homestead,Female,25,48,0.4,,,,,,"Dan Warner, Chris Norris, Kerry Cobb, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
+76,9/13/21,21256,13,September,2021,Autumn,10:56,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Tree in main parking lot,Female,,,,,,,,"captured, not measured","Dan Warner, Chris Norris, Kerry Cobb, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
+77,9/13/21,21256,13,September,2021,Autumn,10:56,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Tree in main parking lot,,,,,,,,,Not captured,"Dan Warner, Chris Norris, Kerry Cobb, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
 75,9/13/21,21256,13,September,2021,Autumn,10:53,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Forest,Forest near playground,,,,,Juvenile,,,,Not captured,"Dan Warner, Chris Norris, Kerry Cobb, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
 79,9/16/21,21259,16,September,2021,Autumn,11:34,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,basking on bench by the ampitheatre near pond,Female,28,36,0.58,,,,,,"Dan Warner, Angela Jaimes",Vert Bio
-88,9/20/21,21263,20,September,2021,Autumn,9:45,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Open,"On log by fence #1, trap #1",,,,,,,,,,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
+80,9/16/21,21259,16,September,2021,Autumn,11:34,AM,Virginia,valeriae,Reptile,Squamate,Snake,,,,Edge,Under bench by the ampitheatre near pond,Female,125,17,1.91,,,,,,"Dan Warner, Angela Jaimes",Vert Bio
+85,9/16/21,21259,16,September,2021,Autumn,12:10,PM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,6,4,,Forest,,,29,,1.94,,,,,,"Dan Warner, Angela Jaimes",Vert Bio
+81,9/16/21,21259,16,September,2021,Autumn,11:45,AM,Blarina,sp,Mammal,Insectivora,Shrew,4,2,,Forest,,,82,,,,,,,,"Dan Warner, Angela Jaimes",Vert Bio
+82,9/16/21,21259,16,September,2021,Autumn,11:45,AM,Blarina,sp,Mammal,Insectivora,Shrew,4,3,,Forest,,,74,,,,,,,,"Dan Warner, Angela Jaimes",Vert Bio
+78,9/16/21,21259,16,September,2021,Autumn,11:25,AM,Blarina,sp,Mammal,Insectivora,Shrew,2,2,,Open,grassland/powerline,,51,,,,24.8,92,,windspeed = 0,"Dan Warner, Angela Jaimes",Vert Bio
+83,9/16/21,21259,16,September,2021,Autumn,11:57,AM,Lithobates,clamitans,Amphibian,Anura,Frog,5,1,,Stream,,,28,,1.05,,,,,,"Dan Warner, Angela Jaimes",Vert Bio
+84,9/16/21,21259,16,September,2021,Autumn,11:57,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,5,4,,Stream,,,29,33,0.39,,,,,,"Dan Warner, Angela Jaimes",Vert Bio
+93,9/20/21,21263,20,September,2021,Autumn,10:18,AM,Anaxyrus,fowleri,Amphibian,Anura,Toad,,,,Edge,under rock on trail between pond and ampitheatre,,48,,6.75,,,,,,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
+94,9/20/21,21263,20,September,2021,Autumn,10:18,AM,Lithobates,clamitans,Amphibian,Anura,Frog,,,,Edge,under rock on trail between pond and ampitheatre,,30,,3.32,,,,,,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
+95,9/20/21,21263,20,September,2021,Autumn,10:23,AM,Diadophis,punctatus,Reptile,Squamate,Snake,,,,Edge,under rock on trail between pond and ampitheatre,,196,55,3.87,,,,,,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
 96,9/20/21,21263,20,September,2021,Autumn,10:23,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,under rock on trail between pond and ampitheatre,,38,10,1.67,,,,,accidentally broke tail,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
+97,9/20/21,21263,20,September,2021,Autumn,10:21,AM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Edge,Under bence by ampitheatre,,20,28,0.9,,,,,,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
 98,9/20/21,21263,20,September,2021,Autumn,10:25,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,By fire pit by ampitheatre,,,,,Juvenile,,,,Observed,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
 99,9/20/21,21263,20,September,2021,Autumn,10:25,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,By fire pit by ampitheatre,,,,,Juvenile,,,,Observed,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
+100,9/20/21,21263,20,September,2021,Autumn,10:35,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,In open short grass on ground by homestead,,33,55,0.58,,,,,,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
+101,9/20/21,21263,20,September,2021,Autumn,10:40,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Compost pile by homestead,,32,57,0.6,,,,,,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
+102,9/20/21,21263,20,September,2021,Autumn,10:40,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Compost pile by homestead,,,,,,,,,Observed,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
+104,9/20/21,21263,20,September,2021,Autumn,10:55,AM,Acris,sp,Amphibian,Anura,Frog,,,,Forest,on forest path by fence #6,,,,,,,,,Observed,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
+103,9/20/21,21263,20,September,2021,Autumn,10:50,AM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Forest,on forest path between homestead and the pond,,24,39,0.23,,,,,,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
+87,9/20/21,21263,20,September,2021,Autumn,9:45,AM,Blarina,sp,Mammal,Insectivora,Shrew,,,29,Open,Under cover board in powerline area,,,,,,,,,Did not positively identify before it escaped,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
+89,9/20/21,21263,20,September,2021,Autumn,10:00,AM,Blarina,sp,Mammal,Insectivora,Shrew,2,4,,Open,,,,,,,,,,,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
+86,9/20/21,21263,20,September,2021,Autumn,9:45,AM,Diadophis,punctatus,Reptile,Squamate,Snake,,,,Open,"Under log by fence #1, trap #1",Female,247,45,6.93,,25.2,88.4,,Windspeed = 0,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
+88,9/20/21,21263,20,September,2021,Autumn,9:45,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Open,"On log by fence #1, trap #1",,,,,,,,,,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
+90,9/20/21,21263,20,September,2021,Autumn,10:05,AM,Acris,sp,Amphibian,Anura,Frog,,,,Stream,Hopping along creek near waterfall,,,,,,,,,Observed,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
+92,9/20/21,21263,20,September,2021,Autumn,10:09,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,3,4,,Stream,,,36,42,0.87,,,,,,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
+91,9/20/21,21263,20,September,2021,Autumn,10:09,AM,Blarina,sp,Mammal,Insectivora,Shrew,3,2,,Stream,,,,,,,,,,,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
+106,9/23/21,21266,23,September,2021,Autumn,12:08,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,28,Open,,,,,,,,,,not captured,,Vert Bio
+107,9/23/21,21266,23,September,2021,Autumn,12:10,PM,Scincella,lateralis,Reptile,Squamate,Lizard,1,1,,Open,,,45,24,1,,,,,broken tail,,Vert Bio
+105,9/23/21,21266,23,September,2021,Autumn,11:00,AM,,,,,,,,,,,,,,,,19.4,59,,,"Angela, Sullivan, Kerry",Vert Bio
+109,9/27/21,21270,27,September,2021,Autumn,9:36,AM,Anaxyrus,fowleri,Amphibian,Anura,Toad,,,,Edge,path to ampitheater,,27,,1.02,,,,,,,Vert Bio
 112,9/27/21,21270,27,September,2021,Autumn,10:44,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Forest,"near fence #6, back of tree",,,,,,,,,,,Vert Bio
-113,9/28/21,21271,28,September,2021,Autumn,5:20,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Open,"On log near fence #1, trap #1",Female,34,44,1.2,,24.5,72,,wind = 0 mph,"Dan Warner, Chris Norris, Olivia Kramer, Alyson Mann, Brenyn Kelly, Kaitlin Watson, Krystin Sims",Vert Bio
+110,9/27/2021,21270,27,September,2021,Autumn,10:17,AM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,,,13,Stream,,,55,18,2.47,,,,,Regnerating tail,,Vert Bio
+108,9/27/2021,21270,27,September,2021,Autumn,9:52,AM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Stream,near fence #6,,,,,,23.8,78,,,"Morgan, Powell, Sullivan, Camille",Vert Bio
+111,9/27/21,21270,27,September,2021,Autumn,10:28,AM,Pantherophis,spiloides,Reptile,Squamate,Snake,,,,,In leaves near path,Female,106.5,23.3,,,,,,,,Vert Bio
 116,9/28/21,21271,28,September,2021,Autumn,5:41,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,On rock by pond and ampitheatre,Male,30,39,0.83,,,,,,,Vert Bio
 117,9/28/21,21271,28,September,2021,Autumn,5:44,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,On rock at the firepit by ampitheatre,Female,27,9,0.67,,,,,,,Vert Bio
+118,9/28/21,21271,28,September,2021,Autumn,6:05,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,6,2,,Forest,,Female,36,47,1.47,,,,,,,Vert Bio
+113,9/28/21,21271,28,September,2021,Autumn,5:20,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Open,"On log near fence #1, trap #1",Female,34,44,1.2,,24.5,72,,wind = 0 mph,"Dan Warner, Chris Norris, Olivia Kramer, Alyson Mann, Brenyn Kelly, Kaitlin Watson, Krystin Sims",Vert Bio
+114,9/28/21,21271,28,September,2021,Autumn,5:29,PM,Lithobates,sphenocephalus,Amphibian,Anura,Frog,,,,Stream,"Near coverboard #19, by waterfall",,,,,,,,,"observed, did not capture",,Vert Bio
+115,9/28/21,21271,28,September,2021,Autumn,5:31,PM,Virginia,valeriae,Reptile,Squamate,Snake,,,35,Stream,,,171,36,3.1,,,,,,,Vert Bio
 119,9/30/21,21273,30,September,2021,Autumn,11:34,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,Next to pond,Male,,,,,24.9,74.7,,,"Kerry, Matt, Lindsey",Vert Bio
 120,9/30/21,21273,30,September,2021,Autumn,11:34,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,Fire pit,,,,,,,,,,,Vert Bio
 121,9/30/21,21273,30,September,2021,Autumn,11:34,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,Fire pit,,,,,,,,,,,Vert Bio
 122,9/30/21,21273,30,September,2021,Autumn,11:36,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,Shelter by pond,,,,,,,,,,,Vert Bio
+123,9/30/21,21273,30,September,2021,Autumn,11:43,AM,Plestiodon,sp,Reptile,Squamate,Lizard,,,,Edge,on barn by garden,,,,,,,,,,,Vert Bio
+124,9/30/21,21273,30,September,2021,Autumn,12:02,PM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,6,2,,Forest,,,19,,0.75,,,,,,,Vert Bio
+125,9/30/21,21273,30,September,2021,Autumn,11:10,AM,Blarina,sp,Mammal,Insectivora,Shrew,2,2,,Open,,,,,,,,,,,,Vert Bio
+126,10/2/21,21275,2,October,2021,Autumn,8:32,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,Cinder block pile near new shelter by amphitheatre,Male,72,105,14.31,,24.1,80.8,,wind = 0mph,"Dan Warner, Alexa Hightower, Olivia Kramer, Cameryn C, Hanna F, Sydney F",Vert Bio
+127,10/2/21,21275,2,October,2021,Autumn,8:36,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Cinder block pile near new shelter by amphitheatre,Female,50,92,2.65,,,,,,,Vert Bio
+130,10/2/21,21275,2,October,2021,Autumn,9:07,AM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,,,49,Forest,,,21,,0.79,,,,,,,Vert Bio
+128,10/2/21,21275,2,October,2021,Autumn,8:58,AM,Eurycea,guttolineata,Amphibian,Caudata,Salamander,,,,Stream,Under rock by fence #5 near stream,,38,25,0.85,,,,,Broken tail,,Vert Bio
+129,10/2/21,21275,2,October,2021,Autumn,8:58,AM,Eurycea,guttolineata,Amphibian,Caudata,Salamander,,,,Stream,Under rock by fence #5 near stream,,35,54,0.87,,,,,,,Vert Bio
+135,10/4/21,21277,4,October,2021,Autumn,10:39,AM,Blarina,sp,Mammal,Insectivora,Shrew,4,2,,Forest,,,,,,,,,,"dead in water-filled bucket, adult",,Vert Bio
+132,10/4/21,21277,4,October,2021,Autumn,10:08,AM,Cardinalis,cardinalis,Aves,,Bird,,,,Open,on edge of woods,,,,,,,,,,,Vert Bio
+131,10/4/21,21277,4,October,2021,Autumn,9:54,AM,Peromyscus,sp,Mammal,Rodentia,Mouse,2,3,,Open,,,,,7.71,,,,,Was wet in the bucket,"Morgan, Mary Graf Ethridge",Vert Bio
+133,10/4/21,21277,4,October,2021,Autumn,10:17,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,3,3,,Stream,,,33,39,0.62,,,,,,,Vert Bio
+134,10/4/21,21277,4,October,2021,Autumn,10:15,AM,Acris,sp,Amphibian,Anura,Frog,,,,Stream,next to water,,,,,,,,,,,Vert Bio
+136,10/4/21,21277,4,October,2021,Autumn,10:47,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,5,4,,Stream,,,40,65,1.22,,,,,,,Vert Bio
+137,10/4/21,21277,4,October,2021,Autumn,10:47,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,5,4,,Stream,,,39,59,1.25,,,,,,,Vert Bio
+138,10/4/21,21277,4,October,2021,Autumn,10:47,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,5,4,,Stream,,,39,62,1.43,,,,,yellow underside at tail,,Vert Bio
+139,10/4/21,21277,4,October,2021,Autumn,11:00,AM,Pseudotriton,ruber,Amphibian,Caudata,Salamander,5,4,,Stream,,,75,42,3.81,,,,,laterally compressed tail,,Vert Bio
+140,10/7/21,21280,7,October,2021,Autumn,11:00,AM,,,,,,,,,,,,,,,,,,,,Kerry,Vert Bio
+142,10/11/21,21284,11,October,2021,Autumn,9:47,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,By fire pit,,,,,,,,,,,Vert Bio
+143,10/11/21,21284,11,October,2021,Autumn,9:59,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,By fire pit,,,,,,,,,,,Vert Bio
+141,10/11/21,21284,11,October,2021,Autumn,9:45,AM,Diadophis,punctatus,Reptile,Squamate,Snake,,,28,Open,,,,,,,,,,,"Morgan Muell, Sullivan Smith, Camille Perry",Vert Bio
+144,10/11/21,21284,11,October,2021,Autumn,10:19,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,,,19,Stream,,,39,48,0.86,,,,,,,Vert Bio
+145,10/12/21,21285,12,October,2021,Autumn,8:45,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,,,11,Stream,,,29,39,0.51,,22.9,83.7,,wind=0 mph,"Dan Warner, Hannah Eubanks, Brenyn Kelly, Kaitlyn Watson",Vert Bio
+148,10/14/21,21287,14,October,2021,Autumn,11:59,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,Firepit,,27,14,0.8,,,,,cut tail,,Vert Bio
+146,10/14/21,21287,14,October,2021,Autumn,11:45,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Forest,Trail next to powerline cut,,,,,,26.7,71,,wind=0 mph,Kerry,Vert Bio
+147,10/14/21,21287,14,October,2021,Autumn,11:50,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Forest,Fence next to waterfall,,42,76,3,,,,,,,Vert Bio
+150,10/16/21,21289,16,October,2021,Autumn,1:33,PM,Trachemys,scripta,Reptile,Chelonia,Turtle,,,,Edge,Basking on log in pond,,,,,,,,,,,Vert Bio
+151,10/16/21,21289,16,October,2021,Autumn,1:34,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,Basking on rock on trail next to pond,Female,27,30,0.68,,,,,,,Vert Bio
+152,10/16/21,21289,16,October,2021,Autumn,1:39,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,Firepit,Female,32,22,0.86,,,,,Broken tail,,Vert Bio
+153,10/16/21,21289,16,October,2021,Autumn,1:45,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Edge,Under rock next to firepit,,31,11,0.42,,,,,Broken tail,,Vert Bio
+154,10/16/21,21289,16,October,2021,Autumn,1:45,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Edge,Under construction wood by the structure under construction near apitheature,,28,18,0.23,,,,,regenerated tail,,Vert Bio
+155,10/16/21,21289,16,October,2021,Autumn,1:46,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,By structure under construction near ampitheater,,,,,,,,,,,Vert Bio
+156,10/16/21,21289,16,October,2021,Autumn,1:55,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Barn at homestead,Male,51,90,1.82,,,,,,,Vert Bio
+149,10/16/21,21289,16,October,2021,Autumn,1:19,PM,Peromyscus,sp,Mammal,Rodentia,Mouse,1,2,,Open,,,,,3.75,,22.7,63,,wind = 1.5 mph,"Dan Warner, Alexa Hightower, Hannah Eubanks, Hannah Forget, Angela Jaimes, Victoria Chaves, Anna Darke",Vert Bio
+161,10/18/21,21291,18,October,2021,Autumn,9:27,AM,Sciurus,carolinensis,Mammal,Rodentia,Squirrel,,,,Edge,Near homestead fence,,,,,,,,,,,Vert Bio
+162,10/18/21,21291,18,October,2021,Autumn,9:27,AM,Sciurus,carolinensis,Mammal,Rodentia,Squirrel,,,,Edge,Near homestead fence,,,,,,,,,,,Vert Bio
+157,10/18/21,21291,18,October,2021,Autumn,9:56,AM,Virginia,striatula,Reptile,Squamate,Snake,,,37,Open,,,154,32,2.85,,16.7,92.5,,wind=0 moph,"Morgan, no students",Vert Bio
+158,10/18/21,21291,18,October,2021,Autumn,10:24,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,3,4,,Stream,,,33,36,0.65,,,,,,,Vert Bio
+160,10/18/21,21291,18,October,2021,Autumn,10:38,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,,,13,Stream,,,35,51,0.98,,,,,,,Vert Bio
+159,10/18/21,21291,18,October,2021,Autumn,10:36,AM,Ardeas,herodias,Aves,,Bird,,,,Stream,Near board 44,,,,,,,,,,,Vert Bio
+163,10/18/21,21291,18,October,2021,Autumn,10:43,AM,Sciurus,carolinensis,Mammal,Rodentia,Squirrel,,,,,,,,,,,,,,,,Vert Bio
+164,10/21/21,21294,21,October,2021,Autumn,11:00,AM,,,,,,,,,,,,,,,,20.5,83,,"No catch, wind=0mph","Kerry, Sydney, Kaylee, Victoria",Vert Bio
+166,10/25/21,21298,25,October,2021,Autumn,10:05,AM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,2,3,,Open,,,21,,0.78,,,,,,,Vert Bio
+165,10/25/21,21298,25,October,2021,Autumn,9:48,AM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,5,4,,Stream,,,83,78,8.77,,21.6,95,,,"Morgan, Will, Camille, Andrew",Vert Bio
+167,10/26/21,21299,26,October,2021,Autumn,5:17,PM,Blarina,sp,Mammal,Insectivora,Shrew,5,4,,Stream,,,73,,13.72,,21.5,58.6,,"Wind = 0 mph, Shrew was dead","Warner, Alyson Mann, Kaitlyn Watson, Lindsay Goodwin, Hannah Eubanks",Vert Bio
+168,10/27/21,21300,27,October,2021,Autumn,6:00,PM,,,,,,,,,,nothing in traps,,,,,,,,,,,Vert Bio
+170,10/28/21,21301,28,October,2021,Autumn,11:25,AM,Thamnophis,sirtalis,Reptile,Squamate,Snake,,,,Open,near fence #1,,,,,,,,,Not captured,,Vert Bio
+171,10/28/21,21301,28,October,2021,Autumn,11:37,AM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Stream,Near fence #5,,,,,,,,,Not captured,,Vert Bio
+172,10/28/21,21301,28,October,2021,Autumn,11:37,AM,Blarina,sp,Mammal,Insectivora,Shrew,4,4,,,,,,,,,,,,Dead in trap,,Vert Bio
+169,10/28/21,21301,28,October,2021,Autumn,11:00,AM,,,,,,,,,,,,,,,,17.3,90.8,,,"Kerry, Daniel, Sydney, Kaylee, Lindsey",Vert Bio
+173,10/29/21,21302,29,October,2021,Autumn,9:37,AM,,,,,,,,,,,,,,,,9.5,39.8,,Nothing captured,"Chris, Lindsay",Vert Bio
+174,10/30/21,21303,30,October,2021,Autumn,8:30,AM,Blarina,sp,Mammal,Insectivora,Shrew,2,2,,Open,,,49,18,2.49,,18.1,74.2,,"no wind, shrew was dead","Dan, Olivia Kramer, Cameryn Christopher",Vert Bio
+175,11/1/21,21305,1,November,2021,Autumn,,,,,,,,,,,,Nothing in traps,,,,,,18.9,,,,"Morgan, Will, Laura, Anna Darke",Vert Bio
+177,11/4/21,21308,4,November,2021,Autumn,11:30,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,,,42,,,Female,27.5,70,0.77,,,,,,,Vert Bio
+178,11/4/21,21308,4,November,2021,Autumn,11:35,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,5,4,,,,Female,45,110,2,,,,,,,Vert Bio
+179,11/4/21,21308,4,November,2021,Autumn,11:42,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,,,5,,,,,,,,,,,,,Vert Bio
+176,11/4/21,21308,4,November,2021,Autumn,11:00,AM,,,,,,,,,,,,,,,,12.8,90,,,,Vert Bio
+180,11/8/21,21312,8,November,2021,Autumn,9:43,AM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Forest,path to pond,,,,,,22.2,46.4,,not captured,"Morgan, Laura, Phelps",Vert Bio
+185,11/8/21,21312,8,November,2021,Autumn,10:18,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Forest,on tree at trailhead to hidden falls trail,,,,,Adult,,,,not captured,,Vert Bio
+186,11/8/21,21312,8,November,2021,Autumn,10:21,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Forest,"on tree at trailhead to hidden falls trail, slightly further down from first fence lizard",Female,31,,1.39,,,,,"tail broke, not measured",,Vert Bio
+184,11/8/21,21312,8,November,2021,Autumn,10:15,AM,Cardinalis,cardinalis,Aves,,Bird,,,,Open,flying over open grass into trees on forest edge,,,,,,,,,,,Vert Bio
+181,11/8/21,21312,8,November,2021,Autumn,10:09,AM,Blarina,sp,Mammal,Insectivora,Shrew,,,28,Open,,,,,,,,,,not captured,,Vert Bio
+182,11/8/21,21312,8,November,2021,Autumn,10:10,AM,Blarina,sp,Mammal,Insectivora,Shrew,,,25,Open,,,,,,,,,,,,Vert Bio
+183,11/8/21,21312,8,November,2021,Autumn,10:14,AM,Coluber,constrictor,Reptile,Squamate,Snake,,,,Open,path up from fence 1 headed to hidden falls trail head,,,,,,,,,whipped away quickly into the tall grass,,Vert Bio
+188,11/11/21,21315,11,November,2021,Autumn,11:15,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,"on tree near road on other side of barbed wire fence, path leading to homestead from north lot",Male,60,112,5.14,,,,,,,Vert Bio
+187,11/11/21,21315,11,November,2021,Autumn,11:07,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Forest,"on log near trees in center of north lot, basking",Female,37,67,1.27,,26.3,64.6,,,"Morgan, Phelps, Matt, Andrew",Vert Bio
+189,11/11/21,21315,11,November,2021,Autumn,12:00,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Forest,tree right at trailhead of hidden falls trail from open area,,,,,,,,,recap of dropped tail individual from Monday,,Vert Bio
+190,11/11/21,21315,11,November,2021,Autumn,12:09,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Open,rock pile by bleachers,,,,,,,,,,,Vert Bio
+191,11/15/21,21319,15,November,2021,Autumn,9:30,AM,,,,,,,,,,,,,,,,11.1,43,,"wind = 2 mph, none captured","Kerry, Mary, Laura, Phelps",Vert Bio
+194,11/18/21,21322,18,November,2021,Autumn,11:45,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Forest,on pond way trail between hi-lo vista and pond,Male,40,80,1.9,,,,,,,Vert Bio
+193,11/18/21,21322,18,November,2021,Autumn,11:20,AM,Peromyscus,sp,Mammal,Rodentia,Mouse,,,,,,,,,,,,,,,,Vert Bio
+192,11/18/21,21322,18,November,2021,Autumn,11:00,AM,,,,,,,,,,,,,,,,26.1,85,,"wind = 1.1 mph, Kerry, Angela",,Vert Bio
+264,1/24/2022,22024,24,January,2022,Winter,13:00,PM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,6,,41,Forest,,,30,20,0.5,,16.7,38,,,Ecology students,Ecology
+266,1/25/2022,22025,25,January,2022,Winter,13:00,PM,,,Amphibian,Caudata,Salamander,6,1,,Forest,,,,,,,18.9,59,,,Ecology students,Ecology
+267,1/25/2022,22025,25,January,2022,Winter,13:00,PM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,5,,,Stream,under log,,40,22,0.23,,24.4,66,,,Ecology students,Ecology
+269,1/25/2022,22025,25,January,2022,Winter,13:00,PM,,,Amphibian,Caudata,Salamander,3,,1,Stream,,,,,,,18.9,59,,,Ecology students,Ecology
+265,1/25/2022,22025,25,January,2022,Winter,13:00,PM,,,Reptile,Squamate,Lizard,3,1,,Stream,,,,,,,17.2,59,,,Ecology students,Ecology
+270,1/25/2022,22025,25,January,2022,Winter,13:00,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,3,,19,Stream,,,,,,,17.2,59,,,Ecology students,Ecology
+268,1/25/2022,22025,25,January,2022,Winter,13:00,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,,,,,,5.3,,17.2,59,,,Ecology students,Ecology
+271,1/26/2022,22026,26,January,2022,Winter,13:00,PM,,,Amphibian,Caudata,Salamander,6,,41,Forest,,,,,,,17.2,39,,,Ecology students,Ecology
+272,1/27/2022,22027,27,January,2022,Winter,13:00,PM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,6,,41,Forest,,,,,,,17.2,27,,,Ecology students,Ecology
+273,1/28/2022,22028,28,January,2022,Winter,13:00,PM,,,Amphibian,Caudata,Salamander,6,,41,Forest,,,,,,,15.6,38,,,Ecology students,Ecology
+274,2/14/2022,22045,14,February,2022,Winter,13:00,PM,,,Reptile,Squamate,Lizard,6,4,,Forest,,,,,,,18.9,28,,,Ecology students,Ecology
+275,2/14/2022,22045,14,February,2022,Winter,13:00,PM,,,Reptile,Squamate,Lizard,1,,29,Open,Small lizard,,,,,,18.9,30,,,Ecology students,Ecology
+276,2/14/2022,22045,14,February,2022,Winter,13:00,PM,Scincella,lateralis,Reptile,Squamate,Lizard,1,,28,Open,,,,,,,18.9,30,,,Ecology students,Ecology
+277,2/14/2022,22045,14,February,2022,Winter,13:00,PM,Plestiodon,sp,Reptile,Squamate,Lizard,1,,27,Open,,,,,,,18.9,30,,,Ecology students,Ecology
+278,2/14/2022,22045,14,February,2022,Winter,13:00,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,3,,19,Stream,,,,,,,15.0,34,,,Ecology students,Ecology
+279,2/15/2022,22046,15,February,2022,Winter,13:00,PM,,,,,,,,,,No vertebrates recorded on this day,,,,,,,,,,Ecology students,Ecology
+280,2/16/22,22047,16,February,2022,Winter,13:00,PM,Virginia,valeriae,Reptile,Squamate,Snake,2,4,,Open,,,,,1.4,,24.4,43,,,Ecology students,Ecology
+294,2-16-2022,22047,16,February,2022,Winter,,,,,Reptile,Squamate,Snake,,,,,,,,,,,,,,,Ecology students,Ecology
+281,2/16/22,22047,16,February,2022,Winter,16:00,PM,,,,,,,,,,"No vertebrates recorded on this day, this lab",,,,,,,,,,Ecology students,Ecology
+293,2-17-2022,22048,17,February,2022,Winter,,,,,Reptile,Squamate,Lizard,6,4,,Forest,Dead lizard,,,,,,21.7,76,,,Ecology students,Ecology
+282,2/17/2022,22048,17,February,2022,Winter,13:00,PM,Storeria,dekayi,Reptile,Squamate,Snake,2,,12,Open,,,,,,,22.8,73,,,Ecology students,Ecology
+292,2-18-2022,22049,18,February,2022,Winter,,,Coluber,constrictor,Reptile,Squamate,Snake,4,,6,Forest,,,,,,,12.8,86,,,Ecology students,Ecology
+283,2-18-22,22049,18,February,2022,Winter,13:00,PM,Blarina,sp,Mammal,Insectivora,Shrew,1,1,,Open,,,,,,,12.8,64,,,Ecology students,Ecology
+284,2/21/2022,22052,21,February,2022,Winter,13:00,PM,Diadophis,punctatus,Reptile,Squamate,Snake,1,,25,Open,,,13,,,,12.8,99.9,,,Ecology students,Ecology
+291,2-22-2022,22053,22,February,2022,Winter,,,,,Reptile,Squamate,Snake,2,,48,Open,,,,,,,23.3,78,2,,Ecology students,Ecology
+285,2/22/22,22053,22,February,2022,Winter,13:00,PM,,,,,,,,,,No vertebrates recorded on this day,,,,,,,,,,Ecology students,Ecology
+286,2/23/22,22054,23,February,2022,Winter,13:00,PM,Virginia,valeriae,Reptile,Squamate,Snake,2,,12,Open,,,,,,,24.4,44,,,Ecology students,Ecology
+290,2-23-2022,22054,23,February,2022,Winter,,,,,Reptile,Squamate,Lizard,1,,27,Open,Black lizard,,,,,,28,77,,,Ecology students,Ecology
+287,2/23/2022,22054,23,February,2022,Winter,16:00,PM,,,,,,,,,,"No vertebrates recorded on this day, this lab",,,,,,,,,,Ecology students,Ecology
+288,2/24/2022,22055,24,February,2022,Winter,13:00,PM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,5,1,,Stream,,,,,,,26.1,58.8,,,Ecology students,Ecology
+289,2/25/2022,22056,25,February,2022,Winter,13:00,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,6,2,,Forest,,,6,5.5,1.9,,15.0,96,,,Ecology students,Ecology
+197,03/02/22,22061,2,March,2022,Spring,1535,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,6,1,,,,Male,38,75,1.53,,,,,,,Herpetology
+198,03/02/22,22061,2,March,2022,Spring,1550,PM,Virginia,valeriae,Reptile,Squamate,Snake,,,12,,,,120,20,1.19,,,,,,,Herpetology
+199,03/02/22,22061,2,March,2022,Spring,1614,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,7,2,,,,Male,34,80,2.24,,,,,"Tail broke when captured, tail length = 36+44",,Herpetology
+195,03/03/22,22062,3,March,2022,Spring,1510,PM,Nerodia,sp,Reptile,Squamate,Snake,,,,Stream,near fence 8 on boardwalk,,,,,,26.3,25,,not captured,,Herpetology
+196,03/03/22,22062,3,March,2022,Spring,,,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Stream,near fence 8 on boardwalk,,,,,,,,,not captured,,Herpetology
+200,03/13/22,22072,13,March,2022,Spring,1300,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,,,,,,,,,,,"see field notes, bad handwriting",,Herpetology
+201,03/14/22,22073,14,March,2022,Spring,,,,,,,,,,,,,,,,,,18.2,38.3,,,"Morgan, August",Herpetology
+203,03/16/22,22075,16,March,2022,Spring,1536,PM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,5,,,Edge,woods/edge,,29,30,0.88,,18.2,74.8,,,,Herpetology
+205,03/16/22,22075,16,March,2022,Spring,1604,PM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,,,45,Forest,,,35,32,1.16,,18.2,74.8,,,,Herpetology
+206,03/16/22,22075,16,March,2022,Spring,1608,PM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,,,18,Forest,,,40,60,1.78,,18.2,74.8,,Tail length = 26+44,,Herpetology
+204,03/16/22,22075,16,March,2022,Spring,1536,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Forest,,Male,66,86,14.48,,18.2,74.8,,,,Herpetology
+207,03/16/22,22075,16,March,2022,Spring,1630,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,31,Open,,Female,38,50,1.08,,18.2,74.8,,,,Herpetology
+208,03/16/22,22075,16,March,2022,Spring,1639,PM,Virginia,valeriae,Reptile,Squamate,Snake,,,12,Open,,,120,19,1.52,,18.2,74.8,,,,Herpetology
+202,03/16/22,22075,16,March,2022,Spring,1500,PM,,,,,,,,,,,,,,,,,,,,"Barrett, Carter, Dalton, Luke, Allison, Natalie, Matt",Herpetology
+210,03/28/22,22087,28,March,2022,Spring,915,AM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,5,,,,,,29,30,0.88,,21.7,36,,,,Herpetology
+211,03/28/22,22087,28,March,2022,Spring,915,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,,,43,,,,38,,1.41,,21.7,36,,,,Herpetology
+212,03/28/22,22087,28,March,2022,Spring,915,AM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,,,,,,,,21.7,36,,,,Herpetology
+209,03/28/22,22087,28,March,2022,Spring,900,AM,,,,,,,,,,,,,,,,21.7,36,,windspeed 2mph,"Jillian, Kerry",Herpetology
+217,03/29/22,22088,29,March,2022,Spring,1200,PM,Anaxyrus,americanus,Amphibian,Anura,Toad,,,,Edge,hillside by pond,Male,,,,,21,56,,,,Herpetology
+218,03/29/22,22088,29,March,2022,Spring,1200,PM,Anaxyrus,americanus,Amphibian,Anura,Toad,,,,Edge,hillside by pond,,,,,Juvenile,21,56,,,,Herpetology
+214,03/29/22,22088,29,March,2022,Spring,1200,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,Fire pit,,,,,Juvenile,21,56,,,,Herpetology
+215,03/29/22,22088,29,March,2022,Spring,1200,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,hillside by pond,,,,,Juvenile,21,56,,,,Herpetology
+216,03/29/22,22088,29,March,2022,Spring,1200,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,hillside by pond,Male,,,,,21,56,,,,Herpetology
+224,03/29/22,22088,29,March,2022,Spring,1200,PM,Diadophis,punctatus,Reptile,Squamate,Snake,,,,Edge,hillside by pond,,,,,,21,56,,,,Herpetology
+223,03/29/22,22088,29,March,2022,Spring,1200,PM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,5,,,,,,29,30,0.88,,21,56,,,,Herpetology
+219,03/29/22,22088,29,March,2022,Spring,1200,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,48,,,,,,,,21,56,,,,Herpetology
+220,03/29/22,22088,29,March,2022,Spring,1200,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,27,,,,,,,,21,56,,,,Herpetology
+221,03/29/22,22088,29,March,2022,Spring,1200,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,31,,,,,,,,21,56,,,,Herpetology
+222,03/29/22,22088,29,March,2022,Spring,1200,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,16,,,,,,,Juvenile,21,56,,,,Herpetology
+213,03/29/22,22088,29,March,2022,Spring,1200,PM,,,,,,,,,,,,,,,,21,56,,,"Devin, Barret, Laura, Parker, Greer",Herpetology
+228,03/30/22,22089,30,March,2022,Spring,1500,PM,Lithobates,sphenocephalus,Amphibian,Anura,Frog,,,,Edge,near pond,,50,,10.25,,27.8,35,,,,Herpetology
+233,03/30/22,22089,30,March,2022,Spring,1500,PM,Anaxyrus,fowleri,Amphibian,Anura,Toad,,,,Edge,Under rock by pond,,46,,8.42,,27.8,35,,,,Herpetology
+225,03/30/22,22089,30,March,2022,Spring,1500,PM,Diadophis,punctatus,Reptile,Squamate,Snake,,,,Edge,Under Rock by butterfly garden,,194,48,5.35,,27.8,35,,,"Allison, Luke, Dalton, Alexis, Hannah Eubanks, Carter, Peyton, Matth",Herpetology
+226,03/30/22,22089,30,March,2022,Spring,1500,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,On fence post by butterfly garden,Male,54,100,5.8,,27.8,35,,,,Herpetology
+232,03/30/22,22089,30,March,2022,Spring,1500,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Under rock by pond,,60,95,3.8,,27.8,35,,,,Herpetology
+234,03/30/22,22089,30,March,2022,Spring,1500,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Edge,Under rock by pond,,32,54,0.33,,27.8,35,,,,Herpetology
+235,03/30/22,22089,30,March,2022,Spring,1500,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,Under rock by pond,,40,32,1.67,,27.8,35,,,,Herpetology
+236,03/30/22,22089,30,March,2022,Spring,1500,PM,Diadophis,punctatus,Reptile,Squamate,Snake,,,,Edge,Under rock by pond,,137,24,1.62,,27.8,35,,,,Herpetology
+237,03/30/22,22089,30,March,2022,Spring,1500,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,Under rock by pond,Male,69,10,12.06,,27.8,35,,,,Herpetology
+231,03/30/22,22089,30,March,2022,Spring,1500,PM,Lampropeltis,getula,Reptile,Squamate,Snake,,,12,Open,Open field,,335,50,14.71,,27.8,35,,,,Herpetology
+229,03/30/22,22089,30,March,2022,Spring,1500,PM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,,,,Stream,under log near stream,,45,65,3.21,,27.8,35,,,,Herpetology
+227,03/30/22,22089,30,March,2022,Spring,1500,PM,Plestiodon,fasciatus,Reptile,Squamate,Lizard,,,,Stream,near creek,Female,,,,,27.8,35,,,,Herpetology
+230,03/30/22,22089,30,March,2022,Spring,1500,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,,on tree,Male,52,95,4.88,,27.8,35,,,,Herpetology
+242,04/12/22,22102,12,April,2022,Spring,1230,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,1,,Forest,,Male,52,72,5.55,,19.4,58.6,,,"Morgan, Terra",Herpetology
+243,04/12/22,22102,12,April,2022,Spring,1244,PM,Lampropeltis,getula,Reptile,Squamate,Snake,,,47,Open,,,,,,,19.4,58.6,,,,Herpetology
+244,04/13/22,22103,13,April,2022,Spring,1549,PM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,,,32,Open,,,,,,,19.4,58.6,,,"Morgan, Matt, Terra, Hannah, Kendall",Herpetology
+245,04/13/22,22103,13,April,2022,Spring,,,Coluber,constrictor,Reptile,Squamate,Snake,,,39,,,,499,106,50,,19.4,58.6,,,,Herpetology
+246,04/13/22,22103,13,April,2022,Spring,,,Scincella,lateralis,Reptile,Squamate,Lizard,,,27,,,,,,,,19.4,58.6,,,,Herpetology
+252,04/26/22,22116,26,April,2022,Spring,1304,PM,Storeria,occipitomaculata,Reptile,Squamate,Snake,7,4,,Forest,,,140,40,1.91,,19.4,58.6,,,,Herpetology
+249,04/26/22,22116,26,April,2022,Spring,1222,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Open,,,45,35,1.31,,19.4,58.6,,12 mm tail regen,,Herpetology
+250,04/26/22,22116,26,April,2022,Spring,1234,PM,Virginia,valeriae,Reptile,Squamate,Snake,,,31,Open,,,177,30,4.41,,19.4,58.6,,,,Herpetology
+251,04/26/22,22116,26,April,2022,Spring,1242,PM,,,,,,1,4,,Open,,,72,100,10.96,,19.4,58.6,,,,Herpetology
+260,04/27/22,22117,27,April,2022,Spring,1631,PM,Anaxyrus,sp,Amphibian,Anura,Toad,,,,Edge,"Pond Adjacent, disturbed",,40,,7.03,,19.4,58.6,,,,Herpetology
+253,04/27/22,22117,27,April,2022,Spring,1532,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,On tree,,,,,,19.4,58.6,,,"Noah, Allison, Peyton, Hannah, Hannah Eubanks, Lyndsay, Matt, Kendall",Herpetology
+259,04/27/22,22117,27,April,2022,Spring,1631,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,"Pond Adjacent, disturbed",Female,54,74,5.15,,19.4,58.6,,,,Herpetology
+257,04/27/22,22117,27,April,2022,Spring,1554,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Forest,,Female,64,85,17.39,,19.4,58.6,,,,Herpetology
+261,04/27/22,22117,27,April,2022,Spring,1630,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Forest,,,,,,,19.4,58.6,,,,Herpetology
+262,04/27/22,22117,27,April,2022,Spring,1638,PM,Plestiodon,laticeps,Reptile,Squamate,Lizard,,,,Forest,,,,,28.5,,19.4,58.6,,,,Herpetology
+263,04/27/22,22117,27,April,2022,Spring,1646,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Forest,On Trail,Female,31,33,0.64,,19.4,58.6,,,,Herpetology
+256,04/27/22,22117,27,April,2022,Spring,1545,PM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,,,,Stream,Stream adjacent,Female,75,128,5.72,,19.4,58.6,,,,Herpetology
+258,04/27/22,22117,27,April,2022,Spring,1602,PM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,,,43,Stream,Stream adjacent,,41,32,1.68,,19.4,58.6,,,,Herpetology
+254,04/27/22,22117,27,April,2022,Spring,1540,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Stream,Stream adjacent,,38,67,0.91,Juvenile,19.4,58.6,,,,Herpetology
+255,04/27/22,22117,27,April,2022,Spring,1540,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Stream,Stream adjacent,Female,52,100,4.32,,19.4,58.6,,,,Herpetology
+299,5/23/2022,22143,23,May,2022,Spring,9:00,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,6,4,,Forest,,,,,,,22.8,91,,"Only traps 2, 4, 5, 6, 4, 9 were checked",Ecology students,Ecology
+296,5/23/2022,22143,23,May,2022,Spring,9:00,AM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,9,3,,Open,,,,,,,27.2,86,,,Ecology students,Ecology
+298,5/23/2022,22143,23,May,2022,Spring,9:00,AM,,,Amphibian,Anura,Frog,2,4,,Open,,,,,,,24.4,80,,"Only traps 2, 4, 5, 6, 4, 9 were checked",Ecology students,Ecology
+295,5/23/2022,22143,23,May,2022,Spring,9:00,AM,,,Amphibian,Anura,Frog,8,3,,Stream,,,,,,,23.9,67,,,Ecology students,Ecology
+297,5/23/2022,22143,23,May,2022,Spring,9:00,AM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,8,,15,Stream,,,,,,,23.9,67,,,Ecology students,Ecology
+300,5/23/2022,22143,23,May,2022,Spring,9:00,AM,,,Amphibian,Anura,Frog,8,4,,Stream,,,,,,,26.7,67,,"Only traps 2, 4, 5, 6, 4, 9 were checked",Ecology students,Ecology
+302,5/24/2022,22144,24,May,2022,Spring,9:00,AM,Acris,sp,Amphibian,Anura,Frog,4,3,,Forest,,,,,,,22.8,99,,"Only traps 2, 4, 5, 6, 4, 9 were checked",Ecology students,Ecology
+303,5/24/2022,22144,24,May,2022,Spring,9:00,AM,,,Amphibian,Anura,Frog,4,4,,Forest,,,,,,,23.9,99,,"Only traps 2, 4, 5, 6, 4, 9 were checked",Ecology students,Ecology
+301,5/24/2022,22144,24,May,2022,Spring,9:00,AM,Lithobates,sphenocephalus,Amphibian,Anura,Frog,5,3,,Stream,,,,,,,22.8,91,,"Only traps 2, 4, 5, 6, 4, 9 were checked",Ecology students,Ecology
+304,5/24/2022,22144,24,May,2022,Spring,9:00,AM,,,Amphibian,Anura,Frog,5,4,,Stream,,,,,,,22.8,91,,"Only traps 2, 4, 5, 6, 4, 9 were checked",Ecology students,Ecology
+305,5/24/2022,22144,24,May,2022,Spring,9:00,AM,,,Amphibian,Anura,Frog,3,2,,Stream,,,,,,,27.8,76,,"Only traps 2, 4, 5, 6, 4, 9 were checked",Ecology students,Ecology
+306,6/13/2022,22164,13,June,2022,Summer,9:00,AM,,,,,,,,,,No vertebrates recorded on this day,,,,,,,,,,Ecology students,Ecology
+307,6/14/2022,22165,14,June,2022,Summer,9:00,AM,,,,,,,,,,No vertebrates recorded on this day,,,,,,,,,"Only traps 4, 5, 6, 4, 9 were checked",Ecology students,Ecology
+309,6/23/2022,22174,23,June,2022,Summer,10:00,AM,Scincella,lateralis,Reptile,Squamate,Lizard,9,3,,Open,,Male,38,66,0.72,,,,,,"Dan Warner, Francis MacVay, Morgan Muell",STEER
+308,6/23/22,22174,23,June,2022,Summer,9:04,AM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,7,1,,,,,29,,2.12,,,,,,"Dan Warner, Francis MacVay, Morgan Muell",STEER
+310,6/24/2022,22175,24,June,2022,Summer,9:46,AM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,,,,Open,Open trap line (northern end),,24,,0.58,,,,,,"Dan Warner, Francis MacVay, Morgan Muell",STEER
+311,6/27/2022,22178,27,June,2022,Summer,9:00,AM,Lithobates,clamitans,Amphibian,Anura,Frog,8,2,,Stream,,,27,,1.77,,,,,,Francis MacVay,STEER
+312,6/28/22,22179,28,June,2022,Summer,9:30,AM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,6,1,,Forest,,,27,,0.96,,,,,,"Dan Warner, Francis MacVay",STEER
+317,6/29/2022,22180,29,June,2022,Summer,9:55,AM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,9,4,,Open,,,24,,1.8,,,,,,Dan Warner,STEER
+318,6/29/2022,22180,29,June,2022,Summer,10:05,AM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,1,3,,Open,,,27,,1.19,,,,,,Dan Warner,STEER
+313,6/29/2022,22180,29,June,2022,Summer,9:10,AM,Lithobates,clamitans,Amphibian,Anura,Frog,8,2,,Stream,,,30,,0.7,,,,,,Dan Warner,STEER
+314,6/29/2022,22180,29,June,2022,Summer,9:10,AM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,8,3,,Stream,,,29,,1.19,,,,,,Dan Warner,STEER
+315,6/29/2022,22180,29,June,2022,Summer,9:28,AM,Lithobates,clamitans,Amphibian,Anura,Frog,5,2,,Stream,,,28,,1.8,,,,,frog was missing right hind foot,Dan Warner,STEER
+316,6/29/2022,22180,29,June,2022,Summer,9:28,AM,Eurycea,guttolineata,Amphibian,Caudata,Salamander,5,4,,Stream,,,53,50,2.56,,,,,,Dan Warner,STEER
+319,6/29/2022,22180,29,June,2022,Summer,10:15,AM,Lithobates,clamitans,Amphibian,Anura,Frog,3,2,,Stream,,,22,,0.7,,,,,,Dan Warner,STEER
+323,6/30/2022,22181,30,June,2022,Summer,9:50,AM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,6,2,,Forest,,,25,,1.05,,,,,,"Dan Warner, Francis MacVay",STEER
+320,6/30/2022,22181,30,June,2022,Summer,9:15,AM,Lithobates,clamitans,Amphibian,Anura,Frog,8,3,,Stream,,,28,,1.38,,,,,,"Dan Warner, Francis MacVay",STEER
+321,6/30/2022,22181,30,June,2022,Summer,9:31,AM,Lithobates,clamitans,Amphibian,Anura,Frog,5,3,,Stream,,,23,,0.96,,,,,,"Dan Warner, Francis MacVay",STEER
+322,6/30/2022,22181,30,June,2022,Summer,9:31,AM,Lithobates,clamitans,Amphibian,Anura,Frog,5,3,,Stream,,,23,,0.81,,,,,,"Dan Warner, Francis MacVay",STEER
+324,6/30/2022,22181,30,June,2022,Summer,10:21,AM,Lithobates,clamitans,Amphibian,Anura,Frog,3,1,,Stream,,,22,,0.77,,,,,,"Dan Warner, Francis MacVay",STEER
+348,08-30-2022,22242,30,August,2022,Summer,,,,,Amphibian,Anura,Frog,4,4,,Forest,,,,,,,30,70,3,,,Ecology
+349,8-30-2022,22242,30,August,2022,Summer,,,Blarina,sp,Mammal,Insectivora,Shrew,7,1,,Forest,,,,,,,,,,,,Ecology
+345,8-31-2022,22243,31,August,2022,Summer,,,Plestiodon,fasciatus,Reptile,Squamate,Lizard,4,4,,Forest,,,,,,,29,,,,,Ecology
+346,8-31-2022,22243,31,August,2022,Summer,,,,,Amphibian,Anura,Frog,9,4,,Open,,,,,,,32,51,,,,Ecology
+347,8-31-2022,22243,31,August,2022,Summer,,,,,Amphibian,Anura,Frog,,,46,Open,,,,,,,32,77,2,,,Ecology
+325,8-31-2022,22243,31,August,2022,Summer,1800,PM,,,Amphibian,Anura,Frog,,,46,,,,,,,,,,,,,Ecology
+326,8-31-2022,22243,31,August,2022,Summer,,,Blarina,sp,Mammal,Insectivora,Shrew,,,39,,,,,,,,,,,,,Ecology
+344,9-1-2022,22244,1,September,2022,Autumn,,,,,Amphibian,Anura,Frog,2,,,Open,,,,,,,,,,,,Ecology
+341,9-1-2022,22244,1,September,2022,Autumn,,,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,,,,,,,,,,,"""next to hap 4/ban""",,Ecology
+342,9-1-2022,22244,1,September,2022,Autumn,,,Plestiodon,sp,Reptile,Squamate,Lizard,,,,,,,,,,,,,,near trap 5,,Ecology
+343,9-1-2022,22244,1,September,2022,Autumn,,,Coluber,constrictor,Reptile,Squamate,Snake,,,,,,,,,,,,,,near trap 1,,Ecology
+333,09/02/2022,22245,2,September,2022,Autumn,,,Anaxyrus,fowleri,Amphibian,Anura,Toad,,,,Edge,Log,Male,,,,,,,,,Group 5,Ecology
+340,9-2-2022,22245,2,September,2022,Autumn,,,Anaxyrus,fowleri,Amphibian,Anura,Toad,8,,,Stream,,,,,,,,,,under log,,Ecology
+339,9-2-2022,22245,2,September,2022,Autumn,,,Plestiodon,fasciatus,Reptile,Squamate,Lizard,8,1,,Stream,,,,,,,,,,ask Jake/Kaitlyn,,Ecology
+338,9-2-2022,22245,2,September,2022,Autumn,,,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,,,,,,,,,,,near 4/barn,,Ecology
+334,09/03/2022,22246,2,September,2022,Autumn,,,Eurycea,guttolineata,Amphibian,Caudata,Salamander,5,4,,Stream,,,,,,,,,,,,Ecology
+335,09/04/2022,22247,2,September,2022,Autumn,,,,,Amphibian,Caudata,Salamander,,,17,,,,,,,,,,,,,Ecology
+336,9-5-2022,22248,2,September,2022,Autumn,,,Plestiodon,fasciatus,Reptile,Squamate,Lizard,8,1,,Stream,,,,,,,28,69,,,,Ecology
 337,9-6-2022,22249,2,September,2022,Autumn,,,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,,,,,,,,,,,near 4/barn,,Ecology
 360,9/8/2022,22251,8,September,2022,Autumn,10:10,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,"On rock between pond and firepit, didn't catch",,,,,,22.6,78.3,,,"Dan Warner, Kendall Jackson",Vert bio
 361,9/8/2022,22251,8,September,2022,Autumn,10:10,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,on rock in fire pit,Female,41,60,2.25,,22.6,78.3,,,"Dan Warner, Kendall Jackson",Vert bio
-389,9/30/2022,22273,30,September,2022,Autumn,15:10,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Forest,Perched on tree next to trail which leads from pond up towards pavilion,,25,35,0.62,,26.3,48.6,,,"Katie Eaton, Jacob Birch, Ella Brasher, Kathryn Edmondson",Vert bio
-212,03/28/22,22087,28,March,2022,Spring,915,AM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,,,,,,,,21.7,36,,,,Herpetology
-219,03/29/22,22088,29,March,2022,Spring,1200,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,48,,,,,,,,21,56,,,,Herpetology
-207,03/16/22,22075,16,March,2022,Spring,1630,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,31,Open,,Female,38,50,1.08,,18.2,74.8,,,,Herpetology
-221,03/29/22,22088,29,March,2022,Spring,1200,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,31,,,,,,,,21,56,,,,Herpetology
-220,03/29/22,22088,29,March,2022,Spring,1200,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,27,,,,,,,,21,56,,,,Herpetology
-309,6/23/2022,22174,23,June,2022,Summer,10:00,AM,Scincella,lateralis,Reptile,Squamate,Lizard,9,3,,Open,,Male,38,66,0.72,,,,,,"Dan Warner, Francis MacVay, Morgan Muell",STEER
-107,9/23/21,21266,23,September,2021,Autumn,12:10,PM,Scincella,lateralis,Reptile,Squamate,Lizard,1,1,,Open,,,45,24,1,,,,,broken tail,,Vert Bio
-276,2/14/2022,22045,14,February,2022,Winter,13:00,PM,Scincella,lateralis,Reptile,Squamate,Lizard,1,,28,Open,,,,,,,18.9,30,,,Ecology students,Ecology
-36,4/12/21,21102,12,April,2021,Spring,1001,AM,Scincella,lateralis,Reptile,Squamate,Lizard,,,35,Open,board,,40,40,0.86,,23.8,47.3,,,,Herpetology
-246,04/13/22,22103,13,April,2022,Spring,,,Scincella,lateralis,Reptile,Squamate,Lizard,,,27,,,,,,,,19.4,58.6,,,,Herpetology
-249,04/26/22,22116,26,April,2022,Spring,1222,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Open,,,45,35,1.31,,19.4,58.6,,12 mm tail regen,,Herpetology
-263,04/27/22,22117,27,April,2022,Spring,1646,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Forest,On Trail,Female,31,33,0.64,,19.4,58.6,,,,Herpetology
-8,2/20/21,21051,20,February,2021,Winter,910,AM,Scincella,lateralis,Reptile,Squamate,Lizard,,,49,Edge,board,,45,35,1.3,,12.8,84.8,,,,Herpetology
-418,2/9/2023,,9,February,2023,Winter,14:05,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Edge,"Under rock near pond, upslope near firepit",Male,40,58,0.88,,21.2,74.7,,regenerated tail. break was at 27 mm,"Ian Hall, Brady Tuton, Nick Kimbrall, Dan Warner, Matt Beuhler",Herpetology
-17,3/12/21,21071,12,March,2021,Spring,,,Scincella,lateralis,Reptile,Squamate,Lizard,,,41,Forest,board,,40,,,,,,,,,Herpetology
-21,3/15/21,21074,15,March,2021,Spring,,,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Edge,lumber by barn,,42,,1,,,,,cut tail,,Herpetology
-200,03/13/22,22072,13,March,2022,Spring,1300,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,,,,,,,,,,,"see field notes, bad handwriting",,Herpetology
-234,03/30/22,22089,30,March,2022,Spring,1500,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Edge,Under rock by pond,,32,54,0.33,,27.8,35,,,,Herpetology
-180,11/8/21,21312,8,November,2021,Autumn,9:43,AM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Forest,path to pond,,,,,,22.2,46.4,,not captured,"Morgan, Laura, Phelps",Vert Bio
-153,10/16/21,21289,16,October,2021,Autumn,1:45,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Edge,Under rock next to firepit,,31,11,0.42,,,,,Broken tail,,Vert Bio
-154,10/16/21,21289,16,October,2021,Autumn,1:45,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Edge,Under construction wood by the structure under construction near apitheature,,28,18,0.23,,,,,regenerated tail,,Vert Bio
-171,10/28/21,21301,28,October,2021,Autumn,11:37,AM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Stream,Near fence #5,,,,,,,,,Not captured,,Vert Bio
-408,10/21/22,22294,21,October,2022,Autumn,14:42,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Open,Near fence #1,,,,,,,,,Visual observation,"Morgan Muell, Nicholas Young, Emma Roark, Abigayle Crochet",Vert bio
-73,9/13/21,21256,13,September,2021,Autumn,10:25,AM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Edge,"open ground leaves, by north parking lot",,22,32,0.2,Juvenile,,,,,"Dan Warner, Chris Norris, Kerry Cobb, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
-97,9/20/21,21263,20,September,2021,Autumn,10:21,AM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Edge,Under bence by ampitheatre,,20,28,0.9,,,,,,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
-103,9/20/21,21263,20,September,2021,Autumn,10:50,AM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Forest,on forest path between homestead and the pond,,24,39,0.23,,,,,,"Dan Warner, Chris Norris, Morgan Muell, Haile Cobb, Chris Powell",Vert Bio
-106,9/23/21,21266,23,September,2021,Autumn,12:08,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,28,Open,,,,,,,,,,not captured,,Vert Bio
-108,9/27/2021,21270,27,September,2021,Autumn,9:52,AM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Stream,near fence #6,,,,,,23.8,78,,,"Morgan, Powell, Sullivan, Camille",Vert Bio
+357,9/8/2022,22251,8,September,2022,Autumn,9:00,AM,Anaxyrus,fowleri,Amphibian,Anura,Toad,4,1,,Forest,,,35,,3.62,,22.6,78.3,,,"Dan Warner, Kendall Jackson",Vert bio
+362,9/8/2022,22251,8,September,2022,Autumn,10:20,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,7,2,,Forest,,Female,28,34,0.61,,22.6,78.3,,,"Dan Warner, Kendall Jackson",Vert bio
+358,9/8/2022,22251,8,September,2022,Autumn,9:45,AM,Peromyscus,sp,Mammal,Rodentia,Mouse,9,3,,Open,,,58,41,7.58,,22.6,78.3,,Dead in pit traph,"Dan Warner, Kendall Jackson",Vert bio
+359,9/8/2022,22251,8,September,2022,Autumn,10:00,AM,Blarina,sp,Mammal,Insectivora,Shrew,2,4,,Open,,,,,3.23,,22.6,78.3,,Live and well,"Dan Warner, Kendall Jackson",Vert bio
+365,9/9/2022,22252,9,September,2022,Autumn,14:15,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,"Homestead, on compost bin near path entrance to drift fence",Female,38,68,1.28,,,,,,"Dan Warner, Morgan Muell, Ella Brasher, Alex Awtrey, John Rodgers",Vert bio
+363,9/9/2022,22252,9,September,2022,Autumn,14:05,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,55,Forest,,Female,30,51,0.52,,,,,,"Dan Warner, Morgan Muell, Ella Brasher, Alex Awtrey, John Rodgers",Vert bio
 364,9/9/2022,22252,9,September,2022,Autumn,14:05,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Forest,spotted near 1st set of coverboards,,,,,,,,,"It escaped, no measurements","Dan Warner, Morgan Muell, Ella Brasher, Alex Awtrey, John Rodgers",Vert bio
-378,9/17/2022,22260,17,September,2022,Autumn,8:35,AM,Scincella,lateralis,Reptile,Squamate,Lizard,,,42,Forest,,,27,44,0.33,,20.8,85.1,,,"Nicholas Kimbral, Laura Holt, Amber Gay, Riley Conolley, David Wilczynski, Dan Warner, Katie Eaton",vert bio
-386,9/30/2022,22273,30,September,2022,Autumn,14:16,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,7,Forest,,,,,,,26.3,48.6,,Was not captured,"Katie Eaton, Jacob Birch, Ella Brasher, Kathryn Edmondson",Vert bio
-161,10/18/21,21291,18,October,2021,Autumn,9:27,AM,Sciurus,carolinensis,Mammal,Rodentia,Squirrel,,,,Edge,Near homestead fence,,,,,,,,,,,Vert Bio
-162,10/18/21,21291,18,October,2021,Autumn,9:27,AM,Sciurus,carolinensis,Mammal,Rodentia,Squirrel,,,,Edge,Near homestead fence,,,,,,,,,,,Vert Bio
-163,10/18/21,21291,18,October,2021,Autumn,10:43,AM,Sciurus,carolinensis,Mammal,Rodentia,Squirrel,,,,,,,,,,,,,,,,Vert Bio
-282,2/17/2022,22048,17,February,2022,Winter,13:00,PM,Storeria,dekayi,Reptile,Squamate,Snake,2,,12,Open,,,,,,,22.8,73,,,Ecology students,Ecology
-252,04/26/22,22116,26,April,2022,Spring,1304,PM,Storeria,occipitomaculata,Reptile,Squamate,Snake,7,4,,Forest,,,140,40,1.91,,19.4,58.6,,,,Herpetology
-45,5/25/21,21145,25,May,2021,Spring,955,AM,Storeria,occipitomaculata,Reptile,Squamate,Snake,,,3,Edge,board,,18,3.5,4.76,,26.2,79.1,,,,
-59,08/05/21,21217,5,August,2021,Summer,1005,AM,Tantilla,coronata,Reptile,Squamate,Snake,,,49,Edge,board,,145,45,1.02,,27.9,67,,,,
-170,10/28/21,21301,28,October,2021,Autumn,11:25,AM,Thamnophis,sirtalis,Reptile,Squamate,Snake,,,,Open,near fence #1,,,,,,,,,Not captured,,Vert Bio
-150,10/16/21,21289,16,October,2021,Autumn,1:33,PM,Trachemys,scripta,Reptile,Chelonia,Turtle,,,,Edge,Basking on log in pond,,,,,,,,,,,Vert Bio
-157,10/18/21,21291,18,October,2021,Autumn,9:56,AM,Virginia,striatula,Reptile,Squamate,Snake,,,37,Open,,,154,32,2.85,,16.7,92.5,,wind=0 moph,"Morgan, no students",Vert Bio
-208,03/16/22,22075,16,March,2022,Spring,1639,PM,Virginia,valeriae,Reptile,Squamate,Snake,,,12,Open,,,120,19,1.52,,18.2,74.8,,,,Herpetology
-385,9/30/2022,22273,30,September,2022,Autumn,14:16,PM,Virginia,valeriae,Reptile,Squamate,Snake,4,2,,Forest,On ground directly next to pitfall trap,,156,41,3.06,,26.3,48.6,,,"Katie Eaton, Jacob Birch, Ella Brasher, Kathryn Edmondson",Vert bio
-280,2/16/22,22047,16,February,2022,Winter,13:00,PM,Virginia,valeriae,Reptile,Squamate,Snake,2,4,,Open,,,,,1.4,,24.4,43,,,Ecology students,Ecology
-286,2/23/22,22054,23,February,2022,Winter,13:00,PM,Virginia,valeriae,Reptile,Squamate,Snake,2,,12,Open,,,,,,,24.4,44,,,Ecology students,Ecology
 370,9/9/2022,22252,9,September,2022,Autumn,15:15,PM,Virginia,valeriae,Reptile,Squamate,Snake,1,4,,Open,,,97,12,0.71,,,,,,"Dan Warner, Morgan Muell, Ella Brasher, Alex Awtrey, John Rodgers",Vert bio
-37,4/15/21,21105,15,April,2021,Spring,1226,PM,Virginia,valeriae,Reptile,Squamate,Snake,,,3,Edge,board,,152,29,,,23.2,36.6,,,,Herpetology
+371,9/9/2022,22252,9,September,2022,Autumn,15:20,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Open,On leaf along path near drift fence #1,Male,37,63,0.96,,,,,,"Dan Warner, Morgan Muell, Ella Brasher, Alex Awtrey, John Rodgers",Vert bio
+366,9/9/2022,22252,9,September,2022,Autumn,14:30,PM,Anaxyrus,fowleri,Amphibian,Anura,Toad,8,2,,Stream,,,28,,1.92,,,,,,"Dan Warner, Morgan Muell, Ella Brasher, Alex Awtrey, John Rodgers",Vert bio
+367,9/9/2022,22252,9,September,2022,Autumn,14:30,PM,Eurycea,guttolineata,Amphibian,Caudata,Salamander,,,15,Stream,,,65,105,5.25,,,,,,"Dan Warner, Morgan Muell, Ella Brasher, Alex Awtrey, John Rodgers",Vert bio
+369,9/9/2022,22252,9,September,2022,Autumn,14:40,PM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,5,4,,Stream,,,49,26,0.81,,,,,Tail was broken,"Dan Warner, Morgan Muell, Ella Brasher, Alex Awtrey, John Rodgers",Vert bio
+372,9/9/2022,22252,9,September,2022,Autumn,15:40,PM,Lithobates,clamitans,Amphibian,Anura,Frog,,,,Stream,Under rock near coverboard 58,,27,,1.98,,,,,,"Dan Warner, Morgan Muell, Ella Brasher, Alex Awtrey, John Rodgers",Vert bio
+368,9/9/2022,22252,9,September,2022,Autumn,14:40,PM,Plestiodon,fasciatus,Reptile,Squamate,Lizard,5,1,,Stream,,,60,61,4.6,,,,,Tail looked regenerated,"Dan Warner, Morgan Muell, Ella Brasher, Alex Awtrey, John Rodgers",Vert bio
+332,9-14-22,22257,14,September,2022,Autumn,,,Eurycea,cirrigera,Amphibian,Caudata,Salamander,5,4,,Stream,,,,,,,,,,,group 4,Ecology
+373,9/16/2022,22259,16,September,2022,Autumn,14:17,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Trail by Homestead,Female,57,103,4,,28.3,60,,,"Morgan Muell, Sydney Spurlock, Kathryn Edmondson, Abigayle Crochet, John Rodgers",Vert bio
+377,9/16/2022,22259,16,September,2022,Autumn,15:35,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Near campfire,,,,,,28.3,60,,Was not captured,"Morgan Muell, Sydney Spurlock, Kathryn Edmondson, Abigayle Crochet, John Rodgers",Vert bio
+374,9/16/2022,22259,16,September,2022,Autumn,14:36,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Forest,Near bridge over stream by fence #8,Female,41,72,1.48,,28.3,60,,,"Morgan Muell, Sydney Spurlock, Kathryn Edmondson, Abigayle Crochet, John Rodgers",Vert bio
+375,9/16/2022,22259,16,September,2022,Autumn,14:48,PM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,5,1,,Stream,,,30,39,0.45,,28.3,60,,,"Morgan Muell, Sydney Spurlock, Kathryn Edmondson, Abigayle Crochet, John Rodgers",Vert bio
+376,9/16/2022,22259,16,September,2022,Autumn,14:48,PM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,5,1,,Stream,,,33,48,0.6,,28.3,60,,,"Morgan Muell, Sydney Spurlock, Kathryn Edmondson, Abigayle Crochet, John Rodgers",Vert bio
+378,9/17/2022,22260,17,September,2022,Autumn,8:35,AM,Scincella,lateralis,Reptile,Squamate,Lizard,,,42,Forest,,,27,44,0.33,,20.8,85.1,,,"Nicholas Kimbral, Laura Holt, Amber Gay, Riley Conolley, David Wilczynski, Dan Warner, Katie Eaton",vert bio
+381,9/17/2022,22260,17,September,2022,Autumn,9:37,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Forest,Near fence #7,Female,56,105,3.6,,20.8,85.1,,,"Nicholas Kimbral, Laura Holt, Amber Gay, Riley Conolley, David Wilczynski, Dan Warner, Katie Eaton",vert bio
+379,9/17/2022,22260,17,September,2022,Autumn,8:55,AM,Anaxyrus,fowleri,Amphibian,Anura,Toad,,,,Open,Along path between fences 9 and 1,,39,,5.97,,20.8,85.1,,,"Nicholas Kimbral, Laura Holt, Amber Gay, Riley Conolley, David Wilczynski, Dan Warner, Katie Eaton",vert bio
+380,9/17/2022,22260,17,September,2022,Autumn,9:05,AM,Coluber,constrictor,Reptile,Squamate,Snake,,,28,Open,,Male,322,114,12.25,,20.8,85.1,,,"Nicholas Kimbral, Laura Holt, Amber Gay, Riley Conolley, David Wilczynski, Dan Warner, Katie Eaton",vert bio
+331,9-19-2022,22262,19,September,2022,Autumn,,,,,Amphibian,Caudata,Salamander,5,3,,Stream,Dead salamander,,,,,,,53,,,group 3,Ecology
+330,09-20-2022,22263,20,September,2022,Autumn,,,,,Amphibian,Anura,Frog,1,2,,Open,Dead frog,,,,,,30,62,3,,,Ecology
+329,09-20-2022,22263,20,September,2022,Autumn,,,Plestiodon,fasciatus,Reptile,Squamate,Lizard,3,4,,Stream,,,,,,,28,68,3,,,Ecology
+328,9-21-2022,22264,21,September,2022,Autumn,,,,,Amphibian,Anura,Frog,8,3,,Stream,,,,,,,29,72,2,,,Ecology
+327,9-21-2022,22264,21,September,2022,Autumn,,,Plestiodon,sp,Reptile,Squamate,Lizard,5,,16,Stream,,,,,,,28,81,3,,,Ecology
+384,9/29/2022,22272,29,September,2022,Autumn,9:25,AM,Acris,gryllus,Amphibian,Anura,Frog,2,1,,Open,,,,,,,13.3,62.1,,"Two dessicated corpses in bucket, MRM put under microscope later and snout and toe morphology suggest Acris or Pseudacris, likely Acris","Katie Eaton, Caroline Burbank, Tori McLaughlin, Branyon Clarke, Alexis Lindsey, Kim Glenn",Vert bio
+382,9/29/2022,22272,29,September,2022,Autumn,9:02,AM,Virginia,valeriae,Reptile,Squamate,Snake,,,38,Open,,,168,24,2.1,,13.3,62.1,,Tail injury,"Katie Eaton, Caroline Burbank, Tori McLaughlin, Branyon Clarke, Alexis Lindsey, Kim Glenn",Vert bio
+383,9/29/2022,22272,29,September,2022,Autumn,9:20,AM,Coluber,constrictor,Reptile,Squamate,Snake,,,28,Open,,,332,130,12.55,,13.3,62.1,,Probably the same male as captured on 9/17 but could not tell sex,"Katie Eaton, Caroline Burbank, Tori McLaughlin, Branyon Clarke, Alexis Lindsey, Kim Glenn",Vert bio
+387,9/30/2022,22273,30,September,2022,Autumn,14:40,PM,,,Amphibian,Anura,Frog,6,4,,Forest,,,21,,,,26.3,48.6,,"Dead in pitfall trap, looked freshly deceased, but was definitely not in there at 8:30am yesterday morning","Katie Eaton, Jacob Birch, Ella Brasher, Kathryn Edmondson",Vert bio
+385,9/30/2022,22273,30,September,2022,Autumn,14:16,PM,Virginia,valeriae,Reptile,Squamate,Snake,4,2,,Forest,On ground directly next to pitfall trap,,156,41,3.06,,26.3,48.6,,,"Katie Eaton, Jacob Birch, Ella Brasher, Kathryn Edmondson",Vert bio
+386,9/30/2022,22273,30,September,2022,Autumn,14:16,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,7,Forest,,,,,,,26.3,48.6,,Was not captured,"Katie Eaton, Jacob Birch, Ella Brasher, Kathryn Edmondson",Vert bio
+389,9/30/2022,22273,30,September,2022,Autumn,15:10,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Forest,Perched on tree next to trail which leads from pond up towards pavilion,,25,35,0.62,,26.3,48.6,,,"Katie Eaton, Jacob Birch, Ella Brasher, Kathryn Edmondson",Vert bio
+388,9/30/2022,22273,30,September,2022,Autumn,14:50,PM,Virginia,valeriae,Reptile,Squamate,Snake,,,38,Open,,,170,21,2.31,,26.3,48.6,,Tail injury,"Katie Eaton, Jacob Birch, Ella Brasher, Kathryn Edmondson",Vert bio
+390,10/1/2022,22274,1,October,2022,Autumn,8:28,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,6,3,,Forest,,,35,43,0.55,,19.1,58.1,,"Was dead and next to trap, not in trap. No obvious signs of how it died, but maybe desiccation","Nicholas Kimbrell, Maddie Edwards, David Wilezynski, Riley Conolly, Ben Mitchell, Dan Warner",Vert bio
+392,10/1/2022,22274,1,October,2022,Autumn,8:54,AM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,2,1,,Open,,,32,,2.7,,19.1,58.1,,,"Nicholas Kimbrell, Maddie Edwards, David Wilezynski, Riley Conolly, Ben Mitchell, Dan Warner",Vert bio
+391,10/1/2022,22274,1,October,2022,Autumn,8:40,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Open,"On bush on side of trail in open powerline area, near the trail head to the hidden falls trail",Female,24,44,0.27,,19.1,58.1,,,"Nicholas Kimbrell, Maddie Edwards, David Wilezynski, Riley Conolly, Ben Mitchell, Dan Warner",Vert bio
+393,10/2/2022,22275,2,October,2022,Autumn,,,,,,,,,,,,,,,,,,,,,"forgot to record weather, no captures","Morgan Muell, Mick Persyn",Vert bio
+394,10/13/22,22286,13,October,2022,Autumn,8:30,AM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,,,59,Forest,,,40,59,1.2,,19.0,89.9,,,"Katie Eaton, Kat Messinger, Josie Wolan, Caroline Burbank",Vert bio
+400,10/13/22,22286,13,October,2022,Autumn,9:35,AM,Blarina,sp,Mammal,Insectivora,Shrew,9,1,,Open,,,,,,,19.0,89.9,,Live in pitfall trap,"Katie Eaton, Kat Messinger, Josie Wolan, Caroline Burbank",Vert bio
+401,10/13/22,22286,13,October,2022,Autumn,9:45,AM,Blarina,sp,Mammal,Insectivora,Shrew,1,2,,Open,,,,,,,19.0,89.9,,"Dead in pitfall trap, eaten by ants","Katie Eaton, Kat Messinger, Josie Wolan, Caroline Burbank",Vert bio
+402,10/13/22,22286,13,October,2022,Autumn,9:50,AM,Blarina,sp,Mammal,Insectivora,Shrew,,,39,Open,,,,,,,19.0,89.9,,Live under coverboard,"Katie Eaton, Kat Messinger, Josie Wolan, Caroline Burbank",Vert bio
+395,10/13/22,22286,13,October,2022,Autumn,8:50,AM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,8,2,,Stream,,,20,,1,,19.0,89.9,,,"Katie Eaton, Kat Messinger, Josie Wolan, Caroline Burbank",Vert bio
+396,10/13/22,22286,13,October,2022,Autumn,8:50,AM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,8,4,,Stream,,,80,70,7.74,,19.0,89.9,,,"Katie Eaton, Kat Messinger, Josie Wolan, Caroline Burbank",Vert bio
+397,10/13/22,22286,13,October,2022,Autumn,8:50,AM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,,,13,Stream,,,40,46,1.57,,19.0,89.9,,,"Katie Eaton, Kat Messinger, Josie Wolan, Caroline Burbank",Vert bio
+398,10/13/22,22286,13,October,2022,Autumn,8:50,AM,Plethodon,glutinosus,Amphibian,Caudata,Salamander,,,15,Stream,,,47,40,2.26,,19.0,89.9,,,"Katie Eaton, Kat Messinger, Josie Wolan, Caroline Burbank",Vert bio
+399,10/13/22,22286,13,October,2022,Autumn,9:15,AM,Eurycea,guttolineata,Amphibian,Caudata,Salamander,,,16,Stream,,,39,66,1.29,,19.0,89.9,,,"Katie Eaton, Kat Messinger, Josie Wolan, Caroline Burbank",Vert bio
+403,10/14/22,22287,14,October,2022,Autumn,14:10,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,On bee hive at the homestead,,,,,,7,48.5,,,"Morgan Muell, Gracie Smith, Sharidan Spivey, Sydney Spurlock",Vert bio
+404,10/14/22,22287,14,October,2022,Autumn,14:10,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,On bee hive at the homestead,,,,,,,,,,"Morgan Muell, Gracie Smith, Sharidan Spivey, Sydney Spurlock",Vert bio
+405,10/14/22,22287,14,October,2022,Autumn,14:58,PM,Gastrophryne,carolinensis,Amphibian,Anura,Frog,9,2,,Open,,,21,,,,,,,,"Morgan Muell, Gracie Smith, Sharidan Spivey, Sydney Spurlock",Vert bio
+406,10/14/22,22287,14,October,2022,Autumn,15:21,PM,Blarina,sp,Mammal,Insectivora,Shrew,,,37,Open,,,,,,,,,,,"Morgan Muell, Gracie Smith, Sharidan Spivey, Sydney Spurlock",Vert bio
+407,10/20/22,22293,20,October,2022,Autumn,8:30,AM,,,,,,,,,,,,,,,,3.9,81.9,,No vertebrates captured,"Katie Eaton, Alexis Lindsey, Kim Glenn, Josie Wolan, Sarah Rayburn",Vert bio
+409,10/21/22,22294,21,October,2022,Autumn,15:04,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,"Path to firepit, skinny tree",,,,,,,,,,"Morgan Muell, Nicholas Young, Emma Roark, Abigayle Crochet",Vert bio
+408,10/21/22,22294,21,October,2022,Autumn,14:42,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Open,Near fence #1,,,,,,,,,Visual observation,"Morgan Muell, Nicholas Young, Emma Roark, Abigayle Crochet",Vert bio
+410,10/22/22,22295,22,October,2022,Autumn,8:00,AM,,,,,,,,,,,,,,,,15.5,60,,No vertebrates captured,"Dan Warner, Mick persyn, Amber Gay, Colby Cheaney, Nick Young, Maddie Edwards, Andrew McKibben",Vert bio
+412,10/28/2022,22301,28,October,2022,Autumn,15:15,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Turtle pond reeds,Male,44,75,2.12,,,,,Injury on neck,"Morgan Muell, Kendall Jackson, Tori McLaughlin Mark Estrada",Vert bio
+413,10/28/2022,22301,28,October,2022,Autumn,15:20,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Turtle pond path,,,,,Juvenile,,,,,"Morgan Muell, Kendall Jackson, Tori McLaughlin Mark Estrada",Vert bio
+411,10/28/2022,22301,28,October,2022,Autumn,14:20,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Forest,Homestead forest,Male,50,94,3.15,,,,,,"Morgan Muell, Kendall Jackson, Tori McLaughlin Mark Estrada",Vert bio
+414,11/4/2022,22308,4,November,2022,Autumn,15:03,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,Neat ampitheatre,Female,32,10,1.23,,24.7,56.2,,Broken tail,"Dan Warner, Gracie Smith, Sheridan Spivey, Emma Roark, Alex Awtrey, Branyon Clarke",Vert bio
+415,11/4/2022,22308,4,November,2022,Autumn,15:05,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,firepit,,,,,Juvenile,,,,"Escaped, jvuvenile","Dan Warner, Gracie Smith, Sheridan Spivey, Emma Roark, Alex Awtrey, Branyon Clarke",Vert bio
+416,11/5/2022,22309,5,November,2022,Autumn,8:00,AM,,,,,,,,,,,,,,,,20.1,69.1,,No vertebrates found,"Dan Warner, Laura Holt, Riley Conolley, Ben Mitchell, Colby Cheaney, Andrew McKibben, Mark Estrada",Vert bio
+434,1/25/2023,23025,25,January,2023,Winter,13:15,PM,Plethodon,glutinosis,Amphibian,Caudata,Salamander,5,,11,Stream,Under Coverboard,,5.9,5.9,4,,,,2,"Bag calibrated, female?",IWO,Ecology
+435,1/26/2023,23026,26,January,2023,Winter,13:52,PM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,5,,,Stream,Under rock,,8,5,,,,,3,"With scale, female?",Natalie,Ecology
+438,1/27/2023,23027,27,January,2023,Winter,13:00,PM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,4,,,Forest,Stream near 4,,,,,,15,20,2,,Shawn,Ecology
+436,1/27/2023,23027,27,January,2023,Winter,13:52,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,4,,,Forest,Under log,Male,4.4,8,3,,14,33,2,,Shawn,Ecology
+437,1/27/2023,23027,27,January,2023,Winter,13:10,PM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,5,,,Stream,Under log,Male,2.5,5.5,3,,14,33,2,,Shawn,Ecology
+441,1/27/2023,23027,27,January,2023,Winter,14:30,PM,Virginia,valeriae,Reptile,Squamate,Snake,3,,,Stream,Rock,,10,,,,11.7,31.8,2,,Shawn,Ecology
+440,1/27/2023,23027,27,January,2023,Winter,13:40,PM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,,,,,32.66 374-85.48672,Female,,,,,15.28,,2,Log,Shawn,Ecology
+439,1/27/2023,23027,27,January,2023,Winter,13:00,PM,Plestodon,fasciatus,Reptile,Squamate,Lizard,,,,,32.66 374-85.48672,,,,,,15,28,2,"Log, female?",Shawn,Ecology
+418,2/9/2023,23040,9,February,2023,Winter,14:05,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Edge,"Under rock near pond, upslope near firepit",Male,40,58,0.88,,21.2,74.7,,regenerated tail. break was at 27 mm,"Ian Hall, Brady Tuton, Nick Kimbrall, Dan Warner, Matt Beuhler",Herpetology
+417,2/9/2023,23040,9,February,2023,Winter,13:25,PM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,5,1,,Stream,Stream pittrap,,37,52,1.1,,21.2,74.7,,,"Ian Hall, Brady Tuton, Nick Kimbrall, Dan Warner, Matt Beuhler",Herpetology
+419,2/10/2023,23041,10,February,2023,Winter,14:43,PM,Desmognathus,conanti,Amphibian,Caudata,Salamander,,,,Stream,Under rock next to stream at drift fence #5,,44,46,1.98,,16.9,57.7,,,"Dan Warner, Sydney Wayne, Sarah Middleton, Anabel Dawson, Drake Mitchell",Herpetology
+442,2/12/2023,23043,12,February,2023,Winter,13:17,PM,Blarina,sp,Mammal,Insectivora,Shrew,2,4,,Open,,,,,,,,,,Dead,IWO,Ecology
+445,2/14/2023,23045,14,February,2023,Winter,14:38,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,7,,,Forest,,,3.8,7,,,23.9,32.4,2,Next to bucket,,Ecology
+443,2/14/2023,23045,14,February,2023,Winter,13:40,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,,32.3948.9-852906,,3.4,0.6,,,19.7,47.3,2,Lost Tail,,Ecology
+444,2/14/2023,23045,14,February,2023,Winter,13:30,PM,Nerodia,sp,Reptile,Squamate,Snake,,,,,32.663975-85486341,,54,21.4,131,,22.5,31.1,2,,,Ecology
+446,2/16/2023,23047,16,February,2023,Winter,13:04,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,,32.6625-8548465,Female,11.5,7.5,,,24.5,63,1,,,Ecology
+447,2/17/2023,23048,17,February,2023,Winter,13:20,PM,Ambystoma,maculatum,Amphibian,Caudata,Salamander,,,,,,,,,12,,12.8,50,2,In stream,,Ecology
+448,2/17/2023,23048,17,February,2023,Winter,13:20,PM,Ambystoma,maculatum,Amphibian,Caudata,Salamander,,,,,,,,,18,,12.8,50,2,In stream,,Ecology
+449,2/17/2023,23048,17,February,2023,Winter,13:20,PM,Ambystoma,maculatum,Amphibian,Caudata,salamander,,,,,,,,,5,,12.8,50,2,Under rock,,Ecology
+450,2/24/2023,23055,24,February,2023,Winter,12:41,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Parking Lot,Male,,,2,,,,1,,,Ecology
+451,2/24/2023,23055,24,February,2023,Winter,14:40,PM,Kinosternon,subrubrum,Reptile,Testudines,Turtle,3,,,Stream,In Pond,,3,,,,,,1,,,Ecology
+452,2/24/2023,23055,24,February,2023,Winter,13:47,PM,Coluber,constrictor,Reptile,Squamate,Snake,3,,,Stream,On Path,Female,,,,,,,,,,Ecology
+433,03/02/2023,23061,2,March,2023,Spring,13:25,PM,Pseudotriton,ruber,Amphibian,Caudata,Salamander,,,10,Forest,On top of hill in forested area,,,,,Adult,,,,Escaped,"Matt Buehler, Raul Quebrado, Chasen Wood, Isabella Rohan, Brady Tuten",Herpetology
+422,3/3/2023,23062,3,March,2023,Spring,,PM,Diadophis,punctatus,Reptile,Squamate,Snake,,,,Edge,Rock pile next to pond,,105,,1.25,Juvenile,,,,,"Matt Buhler, Sarah Middleton, Ian",Herpetology
+423,3/3/2023,23062,3,March,2023,Spring,,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,under log by pond,Male,32,26,1.3,Juvenile,,,,missing part of tail,"Matt Buhler, Sarah Middleton, Ian",Herpetology
+420,3/3/2023,23062,3,March,2023,Spring,14:17,PM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,8,4,,Stream,,,36,40,1.1,,,,,,"Matt Buhler, Sarah Middleton, Ian",Herpetology
+421,3/3/2023,23062,3,March,2023,Spring,,PM,Lithobates,catesbiana,Amphibian,Anura,Frog,,,,Stream,on bank by fence 8,,,,,,,,,not captured,"Matt Buhler, Sarah Middleton, Ian",Herpetology
+426,3/16/2023,23075,16,March,2023,Spring,,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,,,68,115,13.1,,,,,,"Matt Buehler, Jon Keiser, John Rodgers",Herpetology
+427,3/16/2023,23075,16,March,2023,Spring,,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,,Female,55,81,6.2,,,,,,"Matt Buehler, Jon Keiser, John Rodgers",Herpetology
+428,3/16/2023,23075,16,March,2023,Spring,,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Edge,,,131,122,0.6,,,,,broken tail,"Matt Buehler, Jon Keiser, John Rodgers",Herpetology
+431,3/16/2023,23075,16,March,2023,Spring,,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,On rock by pavilion,Female,68,85,21.5,,,,,,"Matt Buehler, Jon Keiser, John Rodgers",Herpetology
+424,3/16/2023,23075,16,March,2023,Spring,,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Forest,On tree by fence #4,,,,,,,,,,"Matt Buehler, Jon Keiser, John Rodgers",Herpetology
+429,3/16/2023,23075,16,March,2023,Spring,,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,49,Forest,,,30,54,0.56,,,,,,"Matt Buehler, Jon Keiser, John Rodgers",Herpetology
+432,3/16/2023,23075,16,March,2023,Spring,,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,39,Open,,,,,,,,,,,"Matt Buehler, Jon Keiser, John Rodgers",Herpetology
+425,3/16/2023,23075,16,March,2023,Spring,,PM,Diadophis,punctatus,Reptile,Squamate,Snake,,,,,,,124,25,1.3,,,,,,"Matt Buehler, Jon Keiser, John Rodgers",Herpetology
+430,3/16/2023,23075,16,March,2023,Spring,,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,,,Male,45,77,3.14,,,,,,"Matt Buehler, Jon Keiser, John Rodgers",Herpetology
+453,3/17/2023,23076,17,March,2023,Spring,18:00,PM,,,,,,,,,,,,,,,,,,,No vertebrates captured,Sydney Wayne,Herpetology
+460,3/23/2023,23082,23,March,2023,Spring,14:34,PM,Anaxyrus,fowleri,Amphibian,Anura,Frog,,,,Edge,by firepit,,38,,6.5,,26,52,,,"Matt Buehler, students",Herpetology
+454,3/23/2023,23082,23,March,2023,Spring,13:15,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Near fence by homestead,,,,,,27,62,,,"Matt Buehler, students",Herpetology
+455,3/23/2023,23082,23,March,2023,Spring,13:15,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,Near fence by homestead,,,,,,27,62,,,"Matt Buehler, students",Herpetology
+456,3/23/2023,23082,23,March,2023,Spring,13:15,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,by edge of site by fence #4,Male,63,96,9.07,,27,62,,,"Matt Buehler, students",Herpetology
+461,3/23/2023,23082,23,March,2023,Spring,14:34,PM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,by firepit,Female,55,83,6.43,,26,52,,,"Matt Buehler, students",Herpetology
+458,3/23/2023,23082,23,March,2023,Spring,13:49,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,6,1,,Forest,on top of PVC post of fence,Female,41,79,1.74,,27,62,,Missing right forearm,"Matt Buehler, students",Herpetology
+457,3/23/2023,23082,23,March,2023,Spring,13:32,PM,Lithobates,,Amphibian,Anura,Frog,,,,Stream,spotted on rock in stream near fence 8,,,,,,27,62,,,"Matt Buehler, students",Herpetology
+459,3/23/2023,23082,23,March,2023,Spring,13:40,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Stream,Bridge by fence #5,Male,46,86,2.93,,27,62,,,"Matt Buehler, students",Herpetology
+462,3/24/2023,23083,24,March,2023,Spring,14:27,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,40,Forest,paritally covered canopy,,,,,,25.1,,,Did not capture,"Sydney Wayne, Students",Herpetology
+464,3/24/2023,23083,24,March,2023,Spring,15:30,PM,Peromyscus,,Mammal,Rodentia,Mouse,9,3,,Open,,,,,,,,,,Did not measure,"Sydney Wayne, Students",Herpetology
+465,3/24/2023,23083,24,March,2023,Spring,15:30,PM,Peromyscus,,Mammal,Rodentia,Mouse,9,3,,Open,,,,,,,,,,Did not measure,"Sydney Wayne, Students",Herpetology
+463,3/24/2023,23083,24,March,2023,Spring,14:47,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Open,Open canopy,,,,,,,,,Did not capture,"Sydney Wayne, Students",Herpetology
+467,3/25/2023,23084,25,March,2023,Spring,9:00,PM,Anaxyus,fowleri,Amphibian,Anura,Frog,,,,Edge,Rocks near pond,,73,,27.5,,16.8,87.6,,,"Dan, Sydney, Students",Herpetology
+466,3/25/2023,23084,25,March,2023,Spring,9:00,PM,Scincella,lateralis,Reptile,Squamate,Lizard,,,,Edge,Rocks near pond,M,42,53,1.16,,16.8,87.6,,,"Dan, Sydney, Students",Herpetology
+468,3/25/2023,23084,25,March,2023,Spring,9:10,PM,Anolis,carolinensis,Reptile,Squamate,Lizard,,,,Edge,under bark near pond,,,,,,16.8,87.6,,Not measured,"Dan, Sydney, Students",Herpetology
+469,3/25/2023,23084,25,March,2023,Spring,8:45,PM,Peromyscus,,Mammal,Rodentia,Mouse,9,4,,Open,,,38,40,2.88,,16.8,87.6,,Dead in trap,"Dan, Sydney, Students",Herpetology
+471,3/30/2023,23089,30,March,2023,Spring,14:25,PM,Anaxyrus,fowleri,Amphibian,Anura,Frog,,,,Edge,on trial by pavillion,,37,,5.18,,26.5,45,,,"Matt Buehler, students",Herpetology
+472,3/30/2023,23089,30,March,2023,Spring,14:25,PM,Anaxyrus,fowleri,Amphibian,Anura,Frog,,,,Edge,on trial by pavillion,,31,,2.5,,26.5,45,,,"Matt Buehler, students",Herpetology
+470,3/30/2023,23089,30,March,2023,Spring,13:43,PM,,,Reptile,Squamate,Lizard,,,42,Forest,"Under board, reported as skink",,,,,,26.5,45,,no captured,"Matt Buehler, students",Herpetology
+477,3/31/2023,23090,31,March,2023,Spring,15:20,PM,Anaxyrus,fowleri,Amphibian,anura,Frog,,,,Edge,After pavillion,,65,,39.08,,26,51.7,,,"Sydney, students",Herpetology
+474,3/31/2023,23090,31,March,2023,Spring,15:00,PM,Plestodon,laticeps,Reptile,Squamate,Lizard,,,,Edge,"By pavillion, on wall",,60,20,6.53,,26,51.7,,,"Sydney, students",Herpetology
+475,3/31/2023,23090,31,March,2023,Spring,15;00,PM,Plestodon,fasciatus,Reptile,Squamate,Lizard,,,,Edge,"By pavillion, on wall",,35,44,1.58,,26,51.7,,,"Sydney, students",Herpetology
+476,3/31/2023,23090,31,March,2023,Spring,15:10,PM,Scleoporus,undulatus,Reptile,Squamate,Lizard,,,,Edge,under rock by pavillion,,80,105,13.15,,26,51.7,,,"Sydney, students",Herpetology
+473,3/31/2023,23090,31,March,2023,Spring,14:30,PM,Eurycea,cirrigera,Amphibian,Caudata,Salamander,5,3,,Stream,,,38,42,0.86,,26,51.7,,,"Sydney, students",Herpetology
+478,4/1/2023,23091,1,April,2023,Spring,8:30,AM,Scincella,lateralis,Reptile,Squamate,Lizard,,,49,Forest,,Male,33,58,0.69,,21.6,88.5,,,"Dan, Sydney, Students",Herpetology
+479,4/1/2023,23091,1,April,2023,Spring,11:45,AM,Scincella,lateralis,Reptile,Squamate,Lizard,,,39,Open,,Male,35,54,0.76,,21.6,88.5,,,Dan,Herpetology
+480,4/1/2023,23091,1,April,2023,Spring,11:45,AM,Virginia,valeriae,Reptile,Squamate,Snake,,,48,Open,,Female,131,15,2.62,,21.6,88.5,,,Dan,Herpetology
+481,4/1/2023,23091,1,April,2023,Spring,11:56,AM,Plethodon,glutinosis,Amphibian,Caudata,Salamander,,,19,Stream,,,,,,,21.6,88.5,,Escaped,Dan,Herpetology
+238,4/11/2022,22101,11,April,2022,Spring,900,AM,Anolis,carolinensis,Reptile,Squamate,Lizard,6,4,,,,Female,33,65,1.52,,19.4,58.6,,no wind,Morgan,Herpetology
+239,4/11/2022,22101,11,April,2022,Spring,900,AM,Lampropeltis,getula,Reptile,Squamate,Snake,,,47,,,,53.5,50,15.13,,19.4,58.6,,no wind,,Herpetology
 240,4/11/2022,22101,11,April,2022,Spring,900,AM,Virginia,valeriae,Reptile,Squamate,Snake,,,37,,,,117,20,1.77,,19.4,58.6,,no wind,,Herpetology
 241,4/11/2022,22101,11,April,2022,Spring,900,AM,Virginia,valeriae,Reptile,Squamate,Snake,,,12,,,,,,,,19.4,58.6,,not captured,,Herpetology
-250,04/26/22,22116,26,April,2022,Spring,1234,PM,Virginia,valeriae,Reptile,Squamate,Snake,,,31,Open,,,177,30,4.41,,19.4,58.6,,,,Herpetology
-198,03/02/22,22061,2,March,2022,Spring,1550,PM,Virginia,valeriae,Reptile,Squamate,Snake,,,12,,,,120,20,1.19,,,,,,,Herpetology
-80,9/16/21,21259,16,September,2021,Autumn,11:34,AM,Virginia,valeriae,Reptile,Squamate,Snake,,,,Edge,Under bench by the ampitheatre near pond,Female,125,17,1.91,,,,,,"Dan Warner, Angela Jaimes",Vert Bio
-115,9/28/21,21271,28,September,2021,Autumn,5:31,PM,Virginia,valeriae,Reptile,Squamate,Snake,,,35,Stream,,,171,36,3.1,,,,,,,Vert Bio
-382,9/29/2022,22272,29,September,2022,Autumn,9:02,AM,Virginia,valeriae,Reptile,Squamate,Snake,,,38,Open,,,168,24,2.1,,13.3,62.1,,Tail injury,"Katie Eaton, Caroline Burbank, Tori McLaughlin, Branyon Clarke, Alexis Lindsey, Kim Glenn",Vert bio
-388,9/30/2022,22273,30,September,2022,Autumn,14:50,PM,Virginia,valeriae,Reptile,Squamate,Snake,,,38,Open,,,170,21,2.31,,26.3,48.6,,Tail injury,"Katie Eaton, Jacob Birch, Ella Brasher, Kathryn Edmondson",Vert bio
-335,09/04/2022,22247,2,September,2022,Autumn,,,,,Amphibian,Caudata,Salamander,,,17,,,,,,,,,,,,,Ecology
-346,8-31-2022,22243,31,August,2022,Summer,,,,,Amphibian,Anura,Frog,9,4,,Open,,,,,,,32,51,,,,Ecology
-295,5/23/2022,22143,23,May,2022,Spring,9:00,AM,,,Amphibian,Anura,Frog,8,3,,Stream,,,,,,,23.9,67,,,Ecology students,Ecology
-328,9-21-2022,22264,21,September,2022,Autumn,,,,,Amphibian,Anura,Frog,8,3,,Stream,,,,,,,29,72,2,,,Ecology
-300,5/23/2022,22143,23,May,2022,Spring,9:00,AM,,,Amphibian,Anura,Frog,8,4,,Stream,,,,,,,26.7,67,,"Only traps 2, 4, 5, 6, 4, 9 were checked",Ecology students,Ecology
-352,,,,September,2022,Autumn,,,,,Amphibian,Anura,Frog,7,1,,Forest,,,,,,,29,64,2,date not recorded. Sept-2022,,Ecology
-266,1/25/2022,22025,25,January,2022,Winter,13:00,PM,,,Amphibian,Caudata,Salamander,6,1,,Forest,,,,,,,18.9,59,,,Ecology students,Ecology
-353,,,,September,2022,Autumn,,,,,Amphibian,Anura,Frog,6,1,,Forest,,,,,,,,,,date illegible. Prob Sept-2022,group 1,Ecology
-274,2/14/2022,22045,14,February,2022,Winter,13:00,PM,,,Reptile,Squamate,Lizard,6,4,,Forest,,,,,,,18.9,28,,,Ecology students,Ecology
-293,2-17-2022,22048,17,February,2022,Winter,,,,,Reptile,Squamate,Lizard,6,4,,Forest,Dead lizard,,,,,,21.7,76,,,Ecology students,Ecology
-387,9/30/2022,22273,30,September,2022,Autumn,14:40,PM,,,Amphibian,Anura,Frog,6,4,,Forest,,,21,,,,26.3,48.6,,"Dead in pitfall trap, looked freshly deceased, but was definitely not in there at 8:30am yesterday morning","Katie Eaton, Jacob Birch, Ella Brasher, Kathryn Edmondson",Vert bio
-271,1/26/2022,22026,26,January,2022,Winter,13:00,PM,,,Amphibian,Caudata,Salamander,6,,41,Forest,,,,,,,17.2,39,,,Ecology students,Ecology
-273,1/28/2022,22028,28,January,2022,Winter,13:00,PM,,,Amphibian,Caudata,Salamander,6,,41,Forest,,,,,,,15.6,38,,,Ecology students,Ecology
-356,,,,September,2022,Autumn,,,,,Amphibian,Caudata,Salamander,5,2,,Stream,,,,,,,,53,,date illegible. Prob Sept-2022,group 2,Ecology
-331,9-19-2022,22262,19,September,2022,Autumn,,,,,Amphibian,Caudata,Salamander,5,3,,Stream,Dead salamander,,,,,,,53,,,group 3,Ecology
-304,5/24/2022,22144,24,May,2022,Spring,9:00,AM,,,Amphibian,Anura,Frog,5,4,,Stream,,,,,,,22.8,91,,"Only traps 2, 4, 5, 6, 4, 9 were checked",Ecology students,Ecology
-348,08-30-2022,22242,30,August,2022,Summer,,,,,Amphibian,Anura,Frog,4,4,,Forest,,,,,,,30,70,3,,,Ecology
-303,5/24/2022,22144,24,May,2022,Spring,9:00,AM,,,Amphibian,Anura,Frog,4,4,,Forest,,,,,,,23.9,99,,"Only traps 2, 4, 5, 6, 4, 9 were checked",Ecology students,Ecology
+247,04/25/22,22115,25,April,2022,Spring,900,AM,Sceloporus,undulatus,Reptile,Squamate,Lizard,,,,Forest,,Female,40,23,2.73,,19.4,58.6,,,,Herpetology
+248,04/25/22,22115,25,April,2022,Spring,900,AM,Aspidoscelis,sexlineata,Reptile,Squamate,Lizard,,,,Open,,,,,,,19.4,58.6,,,,Herpetology
+7,,,,February,2021,Winter,,,Plethodon,glutinosus,Amphibian,Caudata,Salamander,,,45,Forest,board,,39,28,0.79,,15.7,64.2,,,,Herpetology
 351,,,,September,2022,Autumn,,,,,Amphibian,Anura,Toad,4,4,,Forest,,,,,,,,,,date not recorded. Prob Sept-2022,,Ecology
-265,1/25/2022,22025,25,January,2022,Winter,13:00,PM,,,Reptile,Squamate,Lizard,3,1,,Stream,,,,,,,17.2,59,,,Ecology students,Ecology
-305,5/24/2022,22144,24,May,2022,Spring,9:00,AM,,,Amphibian,Anura,Frog,3,2,,Stream,,,,,,,27.8,76,,"Only traps 2, 4, 5, 6, 4, 9 were checked",Ecology students,Ecology
-269,1/25/2022,22025,25,January,2022,Winter,13:00,PM,,,Amphibian,Caudata,Salamander,3,,1,Stream,,,,,,,18.9,59,,,Ecology students,Ecology
-298,5/23/2022,22143,23,May,2022,Spring,9:00,AM,,,Amphibian,Anura,Frog,2,4,,Open,,,,,,,24.4,80,,"Only traps 2, 4, 5, 6, 4, 9 were checked",Ecology students,Ecology
+352,,,,September,2022,Autumn,,,,,Amphibian,Anura,Frog,7,1,,Forest,,,,,,,29,64,2,date not recorded. Sept-2022,,Ecology
+353,,,,September,2022,Autumn,,,,,Amphibian,Anura,Frog,6,1,,Forest,,,,,,,,,,date illegible. Prob Sept-2022,group 1,Ecology
 350,,,,September,2022,Autumn,,,,,Amphibian,Anura,Toad,2,4,,Open,,,,,,,21.7,71,,date not recorded. Prob Sept-2022,,Ecology
-291,2-22-2022,22053,22,February,2022,Winter,,,,,Reptile,Squamate,Snake,2,,48,Open,,,,,,,23.3,78,2,,Ecology students,Ecology
-344,9-1-2022,22244,1,September,2022,Autumn,,,,,Amphibian,Anura,Frog,2,,,Open,,,,,,,,,,,,Ecology
-330,09-20-2022,22263,20,September,2022,Autumn,,,,,Amphibian,Anura,Frog,1,2,,Open,Dead frog,,,,,,30,62,3,,,Ecology
-251,04/26/22,22116,26,April,2022,Spring,1242,PM,,,,,,1,4,,Open,,,72,100,10.96,,19.4,58.6,,,,Herpetology
-275,2/14/2022,22045,14,February,2022,Winter,13:00,PM,,,Reptile,Squamate,Lizard,1,,29,Open,Small lizard,,,,,,18.9,30,,,Ecology students,Ecology
-290,2-23-2022,22054,23,February,2022,Winter,,,,,Reptile,Squamate,Lizard,1,,27,Open,Black lizard,,,,,,28,77,,,Ecology students,Ecology
-347,8-31-2022,22243,31,August,2022,Summer,,,,,Amphibian,Anura,Frog,,,46,Open,,,,,,,32,77,2,,,Ecology
-33,4/9/21,21099,9,April,2021,Spring,900,AM,,,,,,,,,,,,,,,,23.3,76,,nothing found on this day,,Herpetology
-34,4/12/21,21102,12,April,2021,Spring,900,AM,,,,,,,,,,,,,,,,19.8,65.2,,nothing found on this day,,Herpetology
-65,08/18/21,21230,18,August,2021,Summer,,,,,,,,,,,,,,,,,,,,,nothing found on this day,"Chris Norris, Dan Warner",
-66,08/30/2021,21242,30,August,2021,Summer,,,,,,,,,,,,,,,,,,,,,"nothing found on this day, but not all cover boards were checked","Haile Cobb, Dan Warner",Vert Bio
-325,8-31-2022,22243,31,August,2022,Summer,1800,PM,,,Amphibian,Anura,Frog,,,46,,,,,,,,,,,,,Ecology
-3,2/1/21,21032,1,February,2021,Winter,900,AM,,,,,,,,,,,,,,,,4.1,99,,nothing found on this day,,Herpetology
-4,2/4/21,21035,4,February,2021,Winter,1115,AM,,,,,,,,,,,,,,,,10.2,44.6,,nothing found on this day,,Herpetology
-5,2/11/21,21042,11,February,2021,Winter,1110,AM,,,,,,,,,,,,,,,,18.2,85,,nothing found on this day,,Herpetology
-6,2/15/21,21046,15,February,2021,Winter,905,AM,,,,,,,,,,,,,,,,12.7,64.6,,,,Herpetology
-9,2/25/21,21056,25,February,2021,Winter,1121,AM,,,,,,,,,,,,,,,,21.7,50.8,,nothing found on this day,,Herpetology
-279,2/15/2022,22046,15,February,2022,Winter,13:00,PM,,,,,,,,,,No vertebrates recorded on this day,,,,,,,,,,Ecology students,Ecology
-281,2/16/22,22047,16,February,2022,Winter,16:00,PM,,,,,,,,,,"No vertebrates recorded on this day, this lab",,,,,,,,,,Ecology students,Ecology
-294,2-16-2022,22047,16,February,2022,Winter,,,,,Reptile,Squamate,Snake,,,,,,,,,,,,,,,Ecology students,Ecology
-285,2/22/22,22053,22,February,2022,Winter,13:00,PM,,,,,,,,,,No vertebrates recorded on this day,,,,,,,,,,Ecology students,Ecology
-287,2/23/2022,22054,23,February,2022,Winter,16:00,PM,,,,,,,,,,"No vertebrates recorded on this day, this lab",,,,,,,,,,Ecology students,Ecology
-1,1/25/21,21025,25,January,2021,Winter,915,AM,,,,,,,,,,,,,,,,19.8,88.3,,nothing found on this day,,Herpetology
-2,1/28/21,21028,28,January,2021,Winter,1115,AM,,,,,,,,,,,,,,,,7.5,56.6,,nothing found on this day,,Herpetology
-57,07/15/21,21196,15,July,2021,Summer,,,,,,,,,,,,,,,,,,,,,nothing found on this day,,
-58,07/22/21,21203,22,July,2021,Summer,,,,,,,,,,,,,,,,,,,,,nothing found on this day,,
-46,6/3/21,21154,3,June,2021,Summer,1100,AM,,,,,,,,,,,,,,,,29.3,69.4,,nothing found on this day,,
-49,6/24/21,21175,24,June,2021,Summer,,,,,Amphibian,Caudata,Salamander,,,,Stream,"near creek, larvae",,,,,,21.8,80.1,,There were many larvae of an unknown species,,
-306,6/13/2022,22164,13,June,2022,Summer,9:00,AM,,,,,,,,,,No vertebrates recorded on this day,,,,,,,,,,Ecology students,Ecology
-307,6/14/2022,22165,14,June,2022,Summer,9:00,AM,,,,,,,,,,No vertebrates recorded on this day,,,,,,,,,"Only traps 4, 5, 6, 4, 9 were checked",Ecology students,Ecology
-15,3/8/21,21067,8,March,2021,Spring,900,AM,,,,,,,,,,,,,,,,17.4,32.2,,nothing found on this day,,Herpetology
-16,3/12/21,21071,12,March,2021,Spring,900,AM,,,,,,,,,,weather,,,,,,11.1,83,,,,Herpetology
-20,3/15/21,21074,15,March,2021,Spring,900,AM,,,,,,,,,,,,,,,,17.8,100,,,,Herpetology
-23,3/18/21,21077,18,March,2021,Spring,,,,,,,,,,,,,,,,,,20.6,66,,nothing found on this day,,Herpetology
-24,3/22/21,21081,22,March,2021,Spring,900,AM,,,,,,,,,,,,,,,,13.3,59.7,,nothing found on this day,,Herpetology
-25,3/25/21,21084,25,March,2021,Spring,1108,AM,,,,,,,,,,,,,,,,22.1,80.7,,Two snakes sighted next to 17 and 45,,Herpetology
-26,3/26/21,21085,26,March,2021,Spring,1400,PM,,,,,,,,,,,,,,,,23.9,74,,,,Herpetology
-201,03/14/22,22073,14,March,2022,Spring,,,,,,,,,,,,,,,,,,18.2,38.3,,,"Morgan, August",Herpetology
-202,03/16/22,22075,16,March,2022,Spring,1500,PM,,,,,,,,,,,,,,,,,,,,"Barrett, Carter, Dalton, Luke, Allison, Natalie, Matt",Herpetology
-209,03/28/22,22087,28,March,2022,Spring,900,AM,,,,,,,,,,,,,,,,21.7,36,,windspeed 2mph,"Jillian, Kerry",Herpetology
-213,03/29/22,22088,29,March,2022,Spring,1200,PM,,,,,,,,,,,,,,,,21,56,,,"Devin, Barret, Laura, Parker, Greer",Herpetology
-42,5/19/21,21139,19,May,2021,Spring,,,,,,,,,,,,,,,,,,,,,nothing found on this day,,
-43,5/20/21,21140,20,May,2021,Spring,,,,,,,,,,,,spotted broad head skink,,,,,,,,,nothing found on this day,,
-44,5/25,23145,25,May,2021,Spring,,,,,,,,,,,,,,,,,,26.2,80.5,,,,
-175,11/1/21,21305,1,November,2021,Autumn,,,,,,,,,,,,Nothing in traps,,,,,,18.9,,,,"Morgan, Will, Laura, Anna Darke",Vert Bio
-176,11/4/21,21308,4,November,2021,Autumn,11:00,AM,,,,,,,,,,,,,,,,12.8,90,,,,Vert Bio
-191,11/15/21,21319,15,November,2021,Autumn,9:30,AM,,,,,,,,,,,,,,,,11.1,43,,"wind = 2 mph, none captured","Kerry, Mary, Laura, Phelps",Vert Bio
-192,11/18/21,21322,18,November,2021,Autumn,11:00,AM,,,,,,,,,,,,,,,,26.1,85,,"wind = 1.1 mph, Kerry, Angela",,Vert Bio
-416,11/5/2022,22309,5,November,2022,Autumn,8:00,AM,,,,,,,,,,,,,,,,20.1,69.1,,No vertebrates found,"Dan Warner, Laura Holt, Riley Conolley, Ben Mitchell, Colby Cheaney, Andrew McKibben, Mark Estrada",Vert bio
-140,10/7/21,21280,7,October,2021,Autumn,11:00,AM,,,,,,,,,,,,,,,,,,,,Kerry,Vert Bio
-164,10/21/21,21294,21,October,2021,Autumn,11:00,AM,,,,,,,,,,,,,,,,20.5,83,,"No catch, wind=0mph","Kerry, Sydney, Kaylee, Victoria",Vert Bio
-168,10/27/21,21300,27,October,2021,Autumn,6:00,PM,,,,,,,,,,nothing in traps,,,,,,,,,,,Vert Bio
-169,10/28/21,21301,28,October,2021,Autumn,11:00,AM,,,,,,,,,,,,,,,,17.3,90.8,,,"Kerry, Daniel, Sydney, Kaylee, Lindsey",Vert Bio
-173,10/29/21,21302,29,October,2021,Autumn,9:37,AM,,,,,,,,,,,,,,,,9.5,39.8,,Nothing captured,"Chris, Lindsay",Vert Bio
-393,10/2/2022,22275,2,October,2022,Autumn,,,,,,,,,,,,,,,,,,,,,"forgot to record weather, no captures","Morgan Muell, Mick Persyn",Vert bio
-407,10/20/22,22293,20,October,2022,Autumn,8:30,AM,,,,,,,,,,,,,,,,3.9,81.9,,No vertebrates captured,"Katie Eaton, Alexis Lindsey, Kim Glenn, Josie Wolan, Sarah Rayburn",Vert bio
-410,10/22/22,22295,22,October,2022,Autumn,8:00,AM,,,,,,,,,,,,,,,,15.5,60,,No vertebrates captured,"Dan Warner, Mick persyn, Amber Gay, Colby Cheaney, Nick Young, Maddie Edwards, Andrew McKibben",Vert bio
-105,9/23/21,21266,23,September,2021,Autumn,11:00,AM,,,,,,,,,,,,,,,,19.4,59,,,"Angela, Sullivan, Kerry",Vert Bio
+355,,,,September,2022,Autumn,,,Blarina,sp,Mammal,Insectivora,Shrew,2,2,,Open,,,,,,,,46,,date illegible. Prob Sept-2022,group 2,Ecology
+354,,,,September,2022,Autumn,,,Plestiodon,sp,Reptile,Squamate,Lizard,9,,46,Open,,,,,,,,,,date illegible. Prob Sept-2022,group 1,Ecology
+356,,,,September,2022,Autumn,,,,,Amphibian,Caudata,Salamander,5,2,,Stream,,,,,,,,53,,date illegible. Prob Sept-2022,group 2,Ecology
