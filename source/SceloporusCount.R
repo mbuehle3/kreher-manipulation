@@ -1,63 +1,67 @@
 
-# Count up the stream Amphibians
-CountAmphib = function(vert, combined){
-    vert = vert
-    combined = combined
+# Count up the stream Sceloporus
+CountSceloporus = function(combined){
 count = 0
-print("counting stream amphibians")
-for (row in 1:length(combined[,1])){
-    cd = combined[row,1]
+    Sceloporus.counts <- data.frame(matrix(ncol = 4, nrow = (length(combined[,1]))))
+    colnames(Sceloporus.counts) <- c("Stream", "Field", "Edge", "Forest")
+    # str(Sceloporus.counts)
+print("counting stream Sceloporus")
+for (row in 1:length(combined.data[,1])){
+    cd = combined.data[row,1]
 #  print(cd)
     for (vertRow in 1:length(vert$Julian.day)){
         if (is.na(vert$Julian.day[vertRow]) == TRUE){
-            combined[row, 13] <- count
-        } else if(vert$Julian.day[vertRow] == cd & vert$Habitat.type[vertRow] == "Stream" & vert$Class[vertRow] == "Amphibian"){
+            Sceloporus.counts$Stream[row] <- count
+        } else if(vert$Julian.day[vertRow] == cd & vert$Habitat.type[vertRow] == "Stream" & vert$Genus[vertRow] == "Sceloporus"){
         count = count +1
         }
     }
-combined[row, 13] <- count
+Sceloporus.counts$Stream[row] <- count
 count = 0
 }
-print("done counting stream amphibians, now onto Edge habitat")
-for (row in 1:length(combined[,1])){
-    cd = combined[row,1]
+print("done counting stream Sceloporus, now onto Field habitat")
+for (row in 1:length(combined.data[,1])){
+    cd = combined.data[row,1]
 #  print(cd)
     for (vertRow in 1:length(vert$Julian.day)){
         if (is.na(vert$Julian.day[vertRow]) == TRUE){
-            combined[row, 31] <- count
-        } else if(vert$Julian.day[vertRow] == cd & vert$Habitat.type[vertRow] == "Edge" & vert$Class[vertRow] == "Amphibian"){
+            Sceloporus.counts$Field[row] <- count
+        } else if(vert$Julian.day[vertRow] == cd & vert$Habitat.type[vertRow] == "Field" & vert$Genus[vertRow] == "Sceloporus"){
         count = count +1
         }
     }
-combined[row, 31] <- count
+Sceloporus.counts$Field[row] <- count
 count = 0
 }
-print("done counting edge amphibians, now onto field habitat")
-for (row in 1:length(combined[,1])){
-    cd = combined[row,1]
+print("done counting Field Sceloporus, now onto Edge habitat")
+for (row in 1:length(combined.data[,1])){
+    cd = combined.data[row,1]
 #  print(cd)
     for (vertRow in 1:length(vert$Julian.day)){
         if (is.na(vert$Julian.day[vertRow]) == TRUE){
-            combined[row, 22] <- count
-        } else if(vert$Julian.day[vertRow] == cd & vert$Habitat.type[vertRow] == "Field" & vert$Class[vertRow] == "Amphibian"){
+            Sceloporus.counts$Edge[row] <- count
+        } else if(vert$Julian.day[vertRow] == cd & vert$Habitat.type[vertRow] == "Edge" & vert$Genus[vertRow] == "Sceloporus"){
         count = count +1
         }
     }
-combined[row, 22] <- count
+Sceloporus.counts$Edge[row] <- count
 count = 0
 }
-print("done counting field amphibians, now onto Forest habitat")
-for (row in 1:length(combined[,1])){
-    cd = combined[row,1]
+
+print("done counting Edge Sceloporus, now onto Forest habitat")
+for (row in 1:length(combined.data[,1])){
+    cd = combined.data[row,1]
 #  print(cd)
     for (vertRow in 1:length(vert$Julian.day)){
         if (is.na(vert$Julian.day[vertRow]) == TRUE){
-            combined[row, 40] <- count
-        } else if(vert$Julian.day[vertRow] == cd & vert$Habitat.type[vertRow] == "Forest" & vert$Class[vertRow] == "Amphibian"){
+            Sceloporus.counts$Forest[row] <- count
+        } else if(vert$Julian.day[vertRow] == cd & vert$Habitat.type[vertRow] == "Forest" & vert$Genus[vertRow] == "Sceloporus"){
         count = count +1
         }
     }
-combined[row, 40] <- count
+Sceloporus.counts$Forest[row] <- count
 count = 0
 }
+return(Sceloporus.counts)
 }
+

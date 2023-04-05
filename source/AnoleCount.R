@@ -1,63 +1,67 @@
 
 # Count up the stream Anolis
-CountAnolis = function(vert, combined){
-    vert = vert
-    combined = combined
+CountAnolis = function(combined){
 count = 0
+    Anolis.counts <- data.frame(matrix(ncol = 4, nrow = (length(combined[,1]))))
+    colnames(Anolis.counts) <- c("Stream", "Field", "Edge", "Forest")
+    # str(Anolis.counts)
 print("counting stream Anolis")
-for (row in 1:length(combined[,1])){
-    cd = combined[row,1]
+for (row in 1:length(combined.data[,1])){
+    cd = combined.data[row,1]
 #  print(cd)
     for (vertRow in 1:length(vert$Julian.day)){
         if (is.na(vert$Julian.day[vertRow]) == TRUE){
-            combined[row, 16] <- count
+            Anolis.counts$Stream[row] <- count
         } else if(vert$Julian.day[vertRow] == cd & vert$Habitat.type[vertRow] == "Stream" & vert$Genus[vertRow] == "Anolis"){
         count = count +1
         }
     }
-combined.data[row, 16] <- count
+Anolis.counts$Stream[row] <- count
 count = 0
 }
-print("done counting stream Anolis, now onto Edge habitat")
-for (row in 1:length(combined[,1])){
-    cd = combined[row,1]
+print("done counting stream Anolis, now onto Field habitat")
+for (row in 1:length(combined.data[,1])){
+    cd = combined.data[row,1]
 #  print(cd)
     for (vertRow in 1:length(vert$Julian.day)){
         if (is.na(vert$Julian.day[vertRow]) == TRUE){
-            combined[row, 34] <- count
-        } else if(vert$Julian.day[vertRow] == cd & vert$Habitat.type[vertRow] == "Edge" & vert$Genus[vertRow] == "Anolis"){
-        count = count +1
-        }
-    }
-combined.data[row, 34] <- count
-count = 0
-}
-print("done counting edge Anolis, now onto field habitat")
-for (row in 1:length(combined[,1])){
-    cd = combined[row,1]
-#  print(cd)
-    for (vertRow in 1:length(vert$Julian.day)){
-        if (is.na(vert$Julian.day[vertRow]) == TRUE){
-            combined[row, 25] <- count
+            Anolis.counts$Field[row] <- count
         } else if(vert$Julian.day[vertRow] == cd & vert$Habitat.type[vertRow] == "Field" & vert$Genus[vertRow] == "Anolis"){
         count = count +1
         }
     }
-combined.data[row, 25] <- count
+Anolis.counts$Field[row] <- count
 count = 0
 }
-print("done counting field Anolis, now onto Forest habitat")
-for (row in 1:length(combined[,1])){
-    cd = combined[row,1]
+print("done counting Field Anolis, now onto Edge habitat")
+for (row in 1:length(combined.data[,1])){
+    cd = combined.data[row,1]
 #  print(cd)
     for (vertRow in 1:length(vert$Julian.day)){
         if (is.na(vert$Julian.day[vertRow]) == TRUE){
-            combined[row, 43] <- count
+            Anolis.counts$Edge[row] <- count
+        } else if(vert$Julian.day[vertRow] == cd & vert$Habitat.type[vertRow] == "Edge" & vert$Genus[vertRow] == "Anolis"){
+        count = count +1
+        }
+    }
+Anolis.counts$Edge[row] <- count
+count = 0
+}
+
+print("done counting Edge Anolis, now onto Forest habitat")
+for (row in 1:length(combined.data[,1])){
+    cd = combined.data[row,1]
+#  print(cd)
+    for (vertRow in 1:length(vert$Julian.day)){
+        if (is.na(vert$Julian.day[vertRow]) == TRUE){
+            Anolis.counts$Forest[row] <- count
         } else if(vert$Julian.day[vertRow] == cd & vert$Habitat.type[vertRow] == "Forest" & vert$Genus[vertRow] == "Anolis"){
         count = count +1
         }
     }
-combined.data[row, 43] <- count
+Anolis.counts$Forest[row] <- count
 count = 0
 }
+return(Anolis.counts)
 }
+
