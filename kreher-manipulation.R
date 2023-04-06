@@ -118,7 +118,8 @@ columns <- c(
 'forest_fence_lizards',
 'forest_anoles',
 'forest_snakes',
-'forest_reptiles'
+'forest_reptiles',
+'sampling_day'
 )
 
 print("Creating an empty dataframe to start storing data")
@@ -173,7 +174,8 @@ colnames(combined.data) <- c(
 '42_forest_fence_lizards',        #
 '43_forest_anoles',               #
 '44_forest_snakes',               #
-'45_forest_reptiles'              #
+'45_forest_reptiles',             #
+'46_sampling_day'                 #
 )
 
 # str(combined.data)
@@ -193,6 +195,20 @@ for (row in 2:(length(weather$Julian_Day))){
     temp.counter <- temp.counter + 1
 }
 
+########################################################################
+# Mark which days actually had sampling
+########################################################################
+print("Finding Sampled Days -- 1 = yes sampled, 0 = not sampled")
+days_sampled <- data.frame(matrix(ncol = 2, nrow = length(combined.data[,1])))
+days_sampled[,1] <- as.numeric(combined.data[,1] %in% vert$Julian.day)
+days_sampled[,2] <- as.numeric(combined.data[,1] %in% invert$Julian_Day)
+for(row in 1:length(days_sampled[,1])){
+    if (days_sampled[row, 1] == 1 | days_sampled[row,2] == 1){
+        combined.data[row,46] <- 1
+    } else {
+        combined.data[row, 46] <- 0
+    }
+}
 ########################################################################
 # Time to start counting
 ########################################################################
